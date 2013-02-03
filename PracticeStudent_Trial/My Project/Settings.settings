@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="PracticeStudent_WebService_CBTService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://219.99.167.124/vetnurse_Webservice/Student.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

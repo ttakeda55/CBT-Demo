@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F635C016-2A34-4ED8-8480-017394A638C2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CST.CBT.eIPSTA.SystemManager.My.MyApplication</StartupObject>
+    <RootNamespace>CST.CBT.eIPSTA.SystemManager</RootNamespace>
+    <AssemblyName>SystemManager</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SystemManager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SystemManager.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>BF0B84F92410E51B8F6846B202CDC6C7BFCD130E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SystemManager_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DelaySign>false</DelaySign>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Windows.Forms.DataVisualization" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\ApplicationEvents.vb" />
+    <Compile Include="Common\Constant.vb" />
+    <Compile Include="Form\Setting\frmClear.designer.vb">
+      <DependentUpon>frmClear.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Setting\frmClear.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Import\ConvertWordToHtml.vb" />
+    <Compile Include="Form\Setting\frmCategory.Designer.vb">
+      <DependentUpon>frmCategory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Setting\frmCategory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Student\frmImportCheck.Designer.vb">
+      <DependentUpon>frmImportCheck.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Student\frmImportCheck.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\frmLogout.Designer.vb">
+      <DependentUpon>frmLogout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\frmLogout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\frmMenu.Designer.vb">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\frmMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Question\frmPracticeQuestionList.Designer.vb">
+      <DependentUpon>frmPracticeQuestionList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Question\frmPracticeQuestionList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Student\frmStudentImport.Designer.vb">
+      <DependentUpon>frmStudentImport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Student\frmStudentImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Student\frmStudentInput.Designer.vb">
+      <DependentUpon>frmStudentInput.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Student\frmStudentInput.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utility\InputCheck.vb" />
+    <Compile Include="Common\Logout.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Form\Question\frmPracticeQuestionImport.Designer.vb">
+      <DependentUpon>frmPracticeQuestionImport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Question\frmPracticeQuestionImport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Import\importPracticeQuestion.vb" />
+    <Compile Include="Web References\SystemManagerWebService\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Common\WebServiceWrapper.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form\Setting\frmCategory.resx">
+      <DependentUpon>frmCategory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Setting\frmClear.resx">
+      <DependentUpon>frmClear.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\frmMenu.resx">
+      <DependentUpon>frmMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Student\frmImportCheck.resx">
+      <DependentUpon>frmImportCheck.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\frmLogout.resx">
+      <DependentUpon>frmLogout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Question\frmPracticeQuestionList.resx">
+      <DependentUpon>frmPracticeQuestionList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Student\frmStudentImport.resx">
+      <DependentUpon>frmStudentImport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Student\frmStudentInput.resx">
+      <DependentUpon>frmStudentInput.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Question\frmPracticeQuestionImport.resx">
+      <DependentUpon>frmPracticeQuestionImport.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <EmbeddedResource Include="log4net.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="Diagram\cdSystemManager.cd" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Resources\HelpSystemManager.chm" />
+    <None Include="Web References\SystemManagerWebService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\SystemManagerWebService\SystemManager.wsdl" />
+    <None Include="データクリア\bat\IPSTADEL.bat" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CBTCommon\CBTCommon.vbproj">
+      <Project>{75B747D7-9C8E-4832-AE61-B903D3A7072B}</Project>
+      <Name>CBTCommon</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BaseControl\BaseControl.vbproj">
+      <Project>{964525A9-74EE-4A2E-BA06-B5F5CCE977AD}</Project>
+      <Name>BaseControl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Common.vbproj">
+      <Project>{32E38566-D2A6-4146-9356-E77AC00C4AD1}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GroupManager\GroupManager.vbproj">
+      <Project>{960D2A20-84A6-4560-8511-6D734F6A00CC}</Project>
+      <Name>GroupManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PracticeQuestionShow\PracticeQuestionShow.vbproj">
+      <Project>{482DDB2A-1302-4D5F-80BC-75059FEF2F5A}</Project>
+      <Name>PracticeQuestionShow</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuestionShow\QuestionShow.vbproj">
+      <Project>{FAD19426-068A-438B-A55C-31AF1852E0A8}</Project>
+      <Name>QuestionShow</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows インストーラー 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://localhost:52000/SystemManager.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\SystemManagerWebService\</RelPath>
+      <UpdateFromURL>http://localhost:52000/SystemManager.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>SystemManager_SystemManagerWebService_SystemManager</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\SystemManagerWebService\SystemManager.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Category.xml">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="データクリア\データクリア.vbs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

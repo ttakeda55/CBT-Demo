@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CST.CBT.eIPSTA.GroupManager.Constant" Collapsed="true">
+    <Position X="104.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constant.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.DataManager" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAJAAQAAAAQCAAAAAAAAABIAEAAAAAAIgAAAAAAg=</HashCode>
+      <FileName>DataManager.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_instance" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.ExcelCreater" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="106" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAABAAAAQAACCAAgIAAEAAEAAGEBASAYA=</HashCode>
+      <FileName>ExcelCreater.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmAnalysisMenu" Collapsed="true">
+    <Position X="63" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABUCICAAACAACAAIACAACAAABJAAAAAAEAAAA=</HashCode>
+      <FileName>frmAnalysisMenu.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmGroupManagerTop" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAABGGAEAAAChgCABAAKAABAAAANAAAEAAIAgAA=</HashCode>
+      <FileName>frmGroupManagerTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmGroupTop" Collapsed="true">
+    <Position X="19.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABHDAAAACAABCEAAADAAAgABIBCAEAAAISoAE=</HashCode>
+      <FileName>frmGroupTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmMiniTestResultDetail" Collapsed="true">
+    <Position X="31.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAADBASBNODSFAGqCgSJoIECITT/AgxDQIEBwBQBAYA=</HashCode>
+      <FileName>frmMiniTestResultDetail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmMiniTestResultTop" Collapsed="true">
+    <Position X="46" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQBECACQAACAACAAYACAAAAAABhAACAAACAAAA=</HashCode>
+      <FileName>frmMiniTestResultTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmPracticeQuestionTop" Collapsed="true">
+    <Position X="57.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABECACAQICCACBBIACAAAgAABBCAAAAAAAAAA=</HashCode>
+      <FileName>frmPracticeQuestionTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmPracticeResultTop" Collapsed="true">
+    <Position X="71" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAJEaACAAACAACAAIBCAEAAAABBAAAAAAAAAAA=</HashCode>
+      <FileName>frmPracticeResultTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmPrintMenu" Collapsed="true">
+    <Position X="81.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAUULQPjsCACDASKAXyRAYwLBDD/gDLFtBEAIAIAAEA=</HashCode>
+      <FileName>frmPrintMenu.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="cGroup" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmQuestionReport" Collapsed="true">
+    <Position X="92.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QEEMLQEDsCACBCWKAACRAYwLBDD/gHPnkgEBouMAAEI=</HashCode>
+      <FileName>frmQuestionReport.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="cGroup" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmQuestionSetDate" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQEACAABECACARASAgCAAIQCAABAAABBCAAAQAAAAAA=</HashCode>
+      <FileName>frmQuestionSetDate.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmQuestionTop" Collapsed="true">
+    <Position X="22" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABECACCAACAACAAYACAAAAhAdAQAAAAAAIAAA=</HashCode>
+      <FileName>frmQuestionTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmRandomTestResultList" Collapsed="true">
+    <Position X="34.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IACpAQ4HMCESsAgKSACEEY6qCzb/hX1xAIQMEBogIAM=</HashCode>
+      <FileName>frmRandomTestResultList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmRandomTestStudentResultList" Collapsed="true">
+    <Position X="48.75" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAQhBAgBMGHSoAGqAh2IsKSqCbD/AH5hAIAFABIBAAM=</HashCode>
+      <FileName>frmRandomTestStudentResultList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmResultDetail" Collapsed="true">
+    <Position X="60.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAYbQABMOEikAkiTByAIID/gTD/RwZBEhABAAAAEAA=</HashCode>
+      <FileName>frmResultDetail.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_FrmNext" />
+      <Field Name="cGroup" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmResultList" Collapsed="true">
+    <Position X="73.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAGXLRnjsTACBAyKBAKQAYwjBTD/gDbnhQEBYPLgAWM=</HashCode>
+      <FileName>frmResultList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmScoreAnalysis" Collapsed="true">
+    <Position X="83.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QEUMbQHjsCAKBASaAHyRAawLBDD/gDLnlAEBIOMAAUI=</HashCode>
+      <FileName>frmScoreAnalysis.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="cGroup" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSerialPracticeCategoryAnalysis" Collapsed="true">
+    <Position X="95" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IgQJCcYBECALsgIPGhyAAIgiADD/jzRDABgghGAAQNE=</HashCode>
+      <FileName>frmSerialPracticeCategoryAnalysis.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSerialPracticeQuestionAnalysis" Collapsed="true">
+    <Position X="11" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>NAQJgcKxECATsCAPSRmACLhikDn/jwZBABAARWAgQPE=</HashCode>
+      <FileName>frmSerialPracticeQuestionAnalysis.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSerialPracticeResult" Collapsed="true">
+    <Position X="24.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAQLSQOBGDAD9CgfABGgFJkiADz/jwBxTQAAlGEgQOM=</HashCode>
+      <FileName>frmSerialPracticeResult.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSerialPracticeResultDetail" Collapsed="true">
+    <Position X="37.75" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IgVhCEKBECADkAAmBDyCAYF3AJD/AERBABAkkGCQEFc=</HashCode>
+      <FileName>frmSerialPracticeResultDetail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSerialPracticeResultTop" Collapsed="true">
+    <Position X="52.25" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgABEiASAAACCACAAMACAAAAAAhBAAAAAAAAAAA=</HashCode>
+      <FileName>frmSerialPracticeResultTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSpecificInput" Collapsed="true">
+    <Position X="65.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>WEBIBQgRECC2DggCAB7ACCW6CAhiwDsjIKAJYBAgBAI=</HashCode>
+      <FileName>frmSpecificInput.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSpecificList" Collapsed="true">
+    <Position X="76" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAhAgBMCACAgCDAByABAQiAIAAhCkCAYAJECAAAAA=</HashCode>
+      <FileName>frmSpecificList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSpecificQuestionAnalysis" Collapsed="true">
+    <Position X="86.25" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAgrBQoFMCFSIIEKEACJEIqqCCD3lXvxAIQMggIAAAI=</HashCode>
+      <FileName>frmSpecificQuestionAnalysis.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSpecificResultList" Collapsed="true">
+    <Position X="98.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQrAY4FMCESpIAKGACIGY7qCTT3hX3xAIQMCBggYAM=</HashCode>
+      <FileName>frmSpecificResultList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSpecificShow" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IEBIAAgRcOA2AEECEB6AgMEiACwAgAlDhKAAwjABAYo=</HashCode>
+      <FileName>frmSpecificShow.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSpecificTop" Collapsed="true">
+    <Position X="27" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBECACAAACAASAAAACAAABggABAIAAAAAAAAI=</HashCode>
+      <FileName>frmSpecificTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSynthesisInput" Collapsed="true">
+    <Position X="41" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>WC4KAAqfGCB6mEkPCBziAOTiIAAIAQRACACFCFxAAIA=</HashCode>
+      <FileName>frmSynthesisInput.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSynthesisList" Collapsed="true">
+    <Position X="55.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAFECAiAEAGAICAAIACAIAAAAhBEAAAAAAAAAE=</HashCode>
+      <FileName>frmSynthesisList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSynthesisPracticeList" Collapsed="true">
+    <Position X="68" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIIAIozECAyCEAGCByAAIjiAAAAAABoCAQFAERAACE=</HashCode>
+      <FileName>frmSynthesisPracticeList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSynthesisQuestionAnalysis" Collapsed="true">
+    <Position X="78.25" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EQCKAQMHMDESLIGKAACYAYsDIDD/pVvxgDQIsyoAAAI=</HashCode>
+      <FileName>frmSynthesisQuestionAnalysis.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSynthesisResultDetail" Collapsed="true">
+    <Position X="89.5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAyFEGECEAMiIASAgINWATT/gABRAAACmAIRAAA=</HashCode>
+      <FileName>frmSynthesisResultDetail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSynthesisResultList" Collapsed="true">
+    <Position X="101.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EACKCQ8HMDESLICKAAGYAY4jIzD/5c7xiaYYaCoAQQI=</HashCode>
+      <FileName>frmSynthesisResultList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSynthesisResultTop" Collapsed="true">
+    <Position X="17" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBECICAAACAASAQAACAAAAAgABAIAAAAAAAAI=</HashCode>
+      <FileName>frmSynthesisResultTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmSynthesisTop" Collapsed="true">
+    <Position X="29.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABECQCAAgCIACAAIACAAAAAABBAAgAAABAAAA=</HashCode>
+      <FileName>frmSynthesisTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.frmTrueFalseList" Collapsed="true">
+    <Position X="43.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQACMEABVKCCQCCBKMCQIIgCBCgSQCJBUgAAEgQSBMA=</HashCode>
+      <FileName>frmTrueFalseList.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="cGroup" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.GroupClass" Collapsed="true">
+    <Position X="70.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAUggAAAAAAAAIBABYAAAAABCAAABAEEARAAIgABAA=</HashCode>
+      <FileName>GroupClass.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_instance" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.Logout" Collapsed="true">
+    <Position X="104.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Logout.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.WebServiceWrapper" Collapsed="true">
+    <Position X="1.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAQAAAAAAAAAABgQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WebServiceWrapper.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_instance" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.GroupManager.GroupManagerWebService.GroupManager" Collapsed="true">
+    <Position X="2" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>NgACAUUAQCIhASRAAAACxwAAABiAAFAAWAEAkAAAQAM=</HashCode>
+      <FileName>Web References\GroupManagerWebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.BaseControl.BaseMainForm" Collapsed="true">
+    <Position X="53.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.BaseControl.BaseForm" Collapsed="true">
+    <Position X="53.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="メイリオ" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Group>
+    <GROUPCODE>VETNurse</GROUPCODE>
+    <GROUPNAME>動物看護師認定試験</GROUPNAME>
+    <APPLICANT />
+    <COURSE />
+    <STUDENTCOUNT />
+    <TESTSTART />
+    <TESTEND />
+    <GROUPMANAGERID>d</GROUPMANAGERID>
+    <GROUPMANAGERNAME />
+    <PASSWORD>d</PASSWORD>
+    <STATE />
+    <FIRSTSTSRTDAY />
+    <FIRSTENDDAY />
+    <SECONDSTSRTDAY />
+    <SECONDENDDAY />
+    <COURSENO />
+    <CREATE_DATE />
+    <UPDATE_DATE />
+  </Group>
+</DocumentElement>

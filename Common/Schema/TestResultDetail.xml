@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<xs:schema id="TestResultDeail" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="TestResultDeail" msdata:IsDataSet="true" msdata:MainDataTable="TestResultDeail" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TestResultDeail">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="USERID" type="xs:string" minOccurs="0" />
+              <xs:element name="TESTCOUNT" type="xs:string" minOccurs="0" />
+              <xs:element name="QUESTIONNO" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORY1" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORY2" type="xs:string" minOccurs="0" />
+              <xs:element name="QUESTIONTHEME" type="xs:string" minOccurs="0" />
+              <xs:element name="ANSWER" type="xs:string" minOccurs="0" />
+              <xs:element name="DISPLYANSWER" type="xs:string" minOccurs="0" />
+              <xs:element name="ERRATA" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

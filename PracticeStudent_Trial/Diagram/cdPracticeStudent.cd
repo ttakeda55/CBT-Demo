@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.Backup" Collapsed="true">
+    <Position X="55.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAABAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backup.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.Constant" Collapsed="true">
+    <Position X="57.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAIAACAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Constant.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.CategoryDefine" Collapsed="true">
+    <Position X="6" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAgAIAQQCIgAAAAAAAAAAAoAAUEAAAAIAGAAAAAg=</HashCode>
+      <FileName>Data\CategoryDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.DataManager" Collapsed="true">
+    <Position X="6" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RWLWlCEBYCCMZURrHhZAAGiaDnjFQOoJqQQQRAxAQCE=</HashCode>
+      <FileName>Data\DataManager.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_instance" />
+      <Field Name="_PracticeQuestionDefineContainer" />
+      <Field Name="_ResultDataContainer" />
+      <Field Name="_CategoryDefine" />
+      <Field Name="_PracticeQuestionDefine" />
+      <Field Name="_MiniResultDefine" />
+      <Field Name="_SynthesisResultDefine" />
+      <Field Name="_SpecificDefine" />
+      <Field Name="_SynthesisDefine" />
+      <Field Name="_WebService" />
+      <Property Name="CategoryDefine" />
+      <Property Name="PracticeQuestionDefine" />
+      <Property Name="SpecificDefine" />
+      <Property Name="SynthesisDefine" />
+      <Property Name="MiniResultDefine" />
+      <Property Name="SynthesisResultDefine" />
+      <Property Name="PracticeQuestionDefineContainer" />
+      <Property Name="ResultDataContainer" />
+      <Property Name="WebService" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.DebugFile" Collapsed="true">
+    <Position X="59" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Data\DebugFile.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.FileDownLoad" Collapsed="true">
+    <Position X="60.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAARAAAAAAAIIEAAAQAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Data\FileDownLoad.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.MiniResultDefine" Collapsed="true">
+    <Position X="3" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>iAIoACBAlQAAggosACAAQAkQgBAAAFAAEEgACCCEBJA=</HashCode>
+      <FileName>Data\MiniResultDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.PracticeQuestionDefine" Collapsed="true">
+    <Position X="8.75" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QjYCQhQKkIJEBwjsYuicIZpE4BCAoNMaAwABBDQGAFE=</HashCode>
+      <FileName>Data\PracticeQuestionDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.QuestionBankDecorator" Collapsed="true">
+    <Position X="60.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAgEAJABAAAAAgCAQCAAgABSAAAEAAICAAAAAAAAA=</HashCode>
+      <FileName>Data\QuestionBankDecorator.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.QuestionCodeDefine" Collapsed="true">
+    <Position X="55.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEACABAAAAAAAAAAAACAAAAAAwIAAAAAAAAAAA=</HashCode>
+      <FileName>Data\QuestionCodeDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.QuestionDefine" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIBAACAQAAgAAQQgQBAABAAAEAAA4AAISJQgIAjEA=</HashCode>
+      <FileName>Data\QuestionDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.QuestionDefineContainer" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAEEAAAAAAAQAgAAAABAAAA=</HashCode>
+      <FileName>Data\QuestionDefineContainer.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Item(System.String)" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.QuestionDefineCreator" Collapsed="true">
+    <Position X="57.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\QuestionDefineCreator.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.ResultData" Collapsed="true">
+    <Position X="3.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgABAAA=</HashCode>
+      <FileName>Data\ResultData.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.ResultDataContainer" Collapsed="true">
+    <Position X="5.75" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAABAAAA=</HashCode>
+      <FileName>Data\ResultDataContainer.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Item(System.String)" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.SpecificDefine" Collapsed="true">
+    <Position X="9" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAACABACAAAEQAAAAABACQAgIAAAAEIAAiAAxgQAAAA=</HashCode>
+      <FileName>Data\SpecificDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.SynthesisDefine" Collapsed="true">
+    <Position X="3" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAABAAAAAAAEkgACAAJAQAAEEAAgIAgATAAAA=</HashCode>
+      <FileName>Data\SynthesisDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.SynthesisResultDefine" Collapsed="true">
+    <Position X="8.75" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IgiAAIAAEAAFghAGAgCAAJwAgJQAAPAAlwIAQgBUAAA=</HashCode>
+      <FileName>Data\SynthesisResultDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmConfirmHistory" Collapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQACCAABGCAAAIACAACAIAACAgFgEAABAEQCAAAQAAA=</HashCode>
+      <FileName>Form\frmConfirmHistory.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmConfirmTestEnd" Collapsed="true">
+    <Position X="55.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEEAACAAMACAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form\frmConfirmTestEnd.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmMainMenu" Collapsed="true">
+    <Position X="28.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASIAAAABOCAAAYAAAACAIAGCAAihAkABAAABAAAQAAA=</HashCode>
+      <FileName>Form\frmMainMenu.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmMiddlePracticeTop" Collapsed="true">
+    <Position X="35.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CQAAAAABGCIAFIAAIECAIAACAAEwEEBAAAgAAAAQAAA=</HashCode>
+      <FileName>Form\frmMiddlePracticeTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmMiniTestMarkHistory" Collapsed="true">
+    <Position X="43.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAABGACJGCFAAAigQIDQAIKGBAi/AEDAAgCEAAQZGWA=</HashCode>
+      <FileName>Form\frmMiniTestMarkHistory.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmPracticeConfirmHistory" Collapsed="true">
+    <Position X="49.5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIggAhRGCAAUAICHgCDIAQnACT7DwIhCAQEigARACA=</HashCode>
+      <FileName>Form\frmPracticeConfirmHistory.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmPracticeMenu" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQACCAABGCAAAAAAAACBZAADAgDjEEgBIEAAQAAQAAA=</HashCode>
+      <FileName>Form\frmPracticeMenu.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmQuestionComment" Collapsed="true">
+    <Position X="9" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gYoigoMhGSABigjFQSiQEhMfOChABHxAQByABAxZBEI=</HashCode>
+      <FileName>Form\frmQuestionComment.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmReview" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABGCAAAAAYABCA4AICACA/YGMACpQAgAAQAAA=</HashCode>
+      <FileName>Form\frmReview.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmSmallPracticeDetail" Collapsed="true">
+    <Position X="22.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAEROCBAAKACAkCAIAAXAFE4AQAQAgCACAARAJA=</HashCode>
+      <FileName>Form\frmSmallPracticeDetail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmSmallPracticeTop" Collapsed="true">
+    <Position X="30.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQIgoIURHCAAVoQCKECQIAEWADX/TwFYAAiFCgATADA=</HashCode>
+      <FileName>Form\frmSmallPracticeTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmSmallTestHistoryList" Collapsed="true">
+    <Position X="38.5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ERIgoIqRGCQAVOYKGiCSpLAmDCL/Z7JFCAVGCkBRAiA=</HashCode>
+      <FileName>Form\frmSmallTestHistoryList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmSmallTestMenuTop" Collapsed="true">
+    <Position X="46.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>oQUCAAApGGAAQKEAIECAIBCGiQHvAEAFBAAAIAAQEAA=</HashCode>
+      <FileName>Form\frmSmallTestMenuTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmSmallTestReview" Collapsed="true">
+    <Position X="52.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABGCAAAAAYIBCAYAICAAA0YGIACJAAAAAQAAA=</HashCode>
+      <FileName>Form\frmSmallTestReview.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmSpecifications" Collapsed="true">
+    <Position X="57.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIEAECAAAAAAAACAIIICAAAAAEBAAAQAAABQAAA=</HashCode>
+      <FileName>Form\frmSpecifications.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmSynthesisTestHistory" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABIAoIiRGKQCEOIKGiiSpIAGCAL5Z5JFCAQGCEBRAgI=</HashCode>
+      <FileName>Form\frmSynthesisTestHistory.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmSynthesisTestMarkHistory" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAIQCAGJnSADgAggAECIIIECAbH/AUZByUCASA2VEUM=</HashCode>
+      <FileName>Form\frmSynthesisTestMarkHistory.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_FrmNext" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmSynthesisTrueFalseList" Collapsed="true">
+    <Position X="25.5" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAIAECJGCCAIAiCqMCQUIICCCAQACBBwhQGEAQVEEE=</HashCode>
+      <FileName>Form\frmSynthesisTrueFalseList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmTest" Collapsed="true">
+    <Position X="33.5" Y="3.5" Width="1.5" />
+    <AssociationLine Name="_SynthesisTestReviewForm" Type="CST.CBT.eIPSTA.PracticeStudent.frmReview" ManuallyRouted="true">
+      <Path>
+        <Point X="33.844" Y="4.231" />
+        <Point X="33.844" Y="4.918" />
+        <Point X="18" Y="4.918" />
+        <Point X="18" Y="4.231" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>Qaag04S5HXoDTyrFcYiYgtVaMiJUJWhiSg9Q5B3VDg4=</HashCode>
+      <FileName>Form\frmTest.vb</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_SmallTestReviewForm" />
+      <Field Name="_SynthesisTestReviewForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.frmTestTop" Collapsed="true">
+    <Position X="41.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAABGCAAAIAAIACAIAACAAEAAFAAgCAAAACQAAA=</HashCode>
+      <FileName>Form\frmTestTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.Logout" Collapsed="true">
+    <Position X="59" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAACAAAAAAAIQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logout.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent.WebService.Student" Collapsed="true">
+    <Position X="6" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>HpADAMUAADADASSEAVUCqxACBBAAAFAAGgwAkAACAQM=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.BaseControl.BaseMainForm" Collapsed="true">
+    <Position X="29.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.BaseControl.BaseForm" Collapsed="true">
+    <Position X="29.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="メイリオ" Size="9" />
+</ClassDiagram>

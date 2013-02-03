@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://localhost/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://localhost/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://localhost/">
+      <s:element name="Initialize">
+        <s:complexType />
+      </s:element>
+      <s:element name="InitializeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InitializeResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileDownLoad_DATA">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileDownLoad_DATAResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FileDownLoad_DATAResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileDownLoad_SYTEMDATA">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileDownLoad_SYTEMDATAResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FileDownLoad_SYTEMDATAResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileUpLoad_UPLOAD">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileUpLoad_UPLOADResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FileUpLoad_UPLOADResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileUpLoad_DATA">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileUpLoad_DATAResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FileUpLoad_DATAResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PracticeResultFileUpLoad">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="PracticeResultFileUpLoadResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="PracticeResultFileUpLoadResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetServerNowDate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ServerDateTime" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetServerNowDateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetServerNowDateResult" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="ServerDateTime" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="QuestionCollectionDownLoad">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="files" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="data" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="QuestionCollectionDownLoadResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="QuestionCollectionDownLoadResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="data" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="QuestionZipDownLoad">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="zipDirectoryName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="files" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="QuestionZipDownLoadResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="QuestionZipDownLoadResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LogFileUpLoad">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="groupId" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="userId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="LogFileUpLoadResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="LogFileUpLoadResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="InitializeSoapIn">
+    <wsdl:part name="parameters" element="tns:Initialize" />
+  </wsdl:message>
+  <wsdl:message name="InitializeSoapOut">
+    <wsdl:part name="parameters" element="tns:InitializeResponse" />
+  </wsdl:message>
+  <wsdl:message name="FileDownLoad_DATASoapIn">
+    <wsdl:part name="parameters" element="tns:FileDownLoad_DATA" />
+  </wsdl:message>
+  <wsdl:message name="FileDownLoad_DATASoapOut">
+    <wsdl:part name="parameters" element="tns:FileDownLoad_DATAResponse" />
+  </wsdl:message>
+  <wsdl:message name="FileDownLoad_SYTEMDATASoapIn">
+    <wsdl:part name="parameters" element="tns:FileDownLoad_SYTEMDATA" />
+  </wsdl:message>
+  <wsdl:message name="FileDownLoad_SYTEMDATASoapOut">
+    <wsdl:part name="parameters" element="tns:FileDownLoad_SYTEMDATAResponse" />
+  </wsdl:message>
+  <wsdl:message name="FileUpLoad_UPLOADSoapIn">
+    <wsdl:part name="parameters" element="tns:FileUpLoad_UPLOAD" />
+  </wsdl:message>
+  <wsdl:message name="FileUpLoad_UPLOADSoapOut">
+    <wsdl:part name="parameters" element="tns:FileUpLoad_UPLOADResponse" />
+  </wsdl:message>
+  <wsdl:message name="FileUpLoad_DATASoapIn">
+    <wsdl:part name="parameters" element="tns:FileUpLoad_DATA" />
+  </wsdl:message>
+  <wsdl:message name="FileUpLoad_DATASoapOut">
+    <wsdl:part name="parameters" element="tns:FileUpLoad_DATAResponse" />
+  </wsdl:message>
+  <wsdl:message name="PracticeResultFileUpLoadSoapIn">
+    <wsdl:part name="parameters" element="tns:PracticeResultFileUpLoad" />
+  </wsdl:message>
+  <wsdl:message name="PracticeResultFileUpLoadSoapOut">
+    <wsdl:part name="parameters" element="tns:PracticeResultFileUpLoadResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetServerNowDateSoapIn">
+    <wsdl:part name="parameters" element="tns:GetServerNowDate" />
+  </wsdl:message>
+  <wsdl:message name="GetServerNowDateSoapOut">
+    <wsdl:part name="parameters" element="tns:GetServerNowDateResponse" />
+  </wsdl:message>
+  <wsdl:message name="QuestionCollectionDownLoadSoapIn">
+    <wsdl:part name="parameters" element="tns:QuestionCollectionDownLoad" />
+  </wsdl:message>
+  <wsdl:message name="QuestionCollectionDownLoadSoapOut">
+    <wsdl:part name="parameters" element="tns:QuestionCollectionDownLoadResponse" />
+  </wsdl:message>
+  <wsdl:message name="QuestionZipDownLoadSoapIn">
+    <wsdl:part name="parameters" element="tns:QuestionZipDownLoad" />
+  </wsdl:message>
+  <wsdl:message name="QuestionZipDownLoadSoapOut">
+    <wsdl:part name="parameters" element="tns:QuestionZipDownLoadResponse" />
+  </wsdl:message>
+  <wsdl:message name="LogFileUpLoadSoapIn">
+    <wsdl:part name="parameters" element="tns:LogFileUpLoad" />
+  </wsdl:message>
+  <wsdl:message name="LogFileUpLoadSoapOut">
+    <wsdl:part name="parameters" element="tns:LogFileUpLoadResponse" />
+  </wsdl:message>
+  <wsdl:portType name="StudentSoap">
+    <wsdl:operation name="Initialize">
+      <wsdl:input message="tns:InitializeSoapIn" />
+      <wsdl:output message="tns:InitializeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_DATA">
+      <wsdl:input message="tns:FileDownLoad_DATASoapIn" />
+      <wsdl:output message="tns:FileDownLoad_DATASoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_SYTEMDATA">
+      <wsdl:input message="tns:FileDownLoad_SYTEMDATASoapIn" />
+      <wsdl:output message="tns:FileDownLoad_SYTEMDATASoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FileUpLoad_UPLOAD">
+      <wsdl:input message="tns:FileUpLoad_UPLOADSoapIn" />
+      <wsdl:output message="tns:FileUpLoad_UPLOADSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FileUpLoad_DATA">
+      <wsdl:input message="tns:FileUpLoad_DATASoapIn" />
+      <wsdl:output message="tns:FileUpLoad_DATASoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="PracticeResultFileUpLoad">
+      <wsdl:input message="tns:PracticeResultFileUpLoadSoapIn" />
+      <wsdl:output message="tns:PracticeResultFileUpLoadSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetServerNowDate">
+      <wsdl:input message="tns:GetServerNowDateSoapIn" />
+      <wsdl:output message="tns:GetServerNowDateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="QuestionCollectionDownLoad">
+      <wsdl:input message="tns:QuestionCollectionDownLoadSoapIn" />
+      <wsdl:output message="tns:QuestionCollectionDownLoadSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="QuestionZipDownLoad">
+      <wsdl:input message="tns:QuestionZipDownLoadSoapIn" />
+      <wsdl:output message="tns:QuestionZipDownLoadSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="LogFileUpLoad">
+      <wsdl:input message="tns:LogFileUpLoadSoapIn" />
+      <wsdl:output message="tns:LogFileUpLoadSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="StudentSoap" type="tns:StudentSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Initialize">
+      <soap:operation soapAction="http://localhost/Initialize" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_DATA">
+      <soap:operation soapAction="http://localhost/FileDownLoad_DATA" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_SYTEMDATA">
+      <soap:operation soapAction="http://localhost/FileDownLoad_SYTEMDATA" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileUpLoad_UPLOAD">
+      <soap:operation soapAction="http://localhost/FileUpLoad_UPLOAD" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileUpLoad_DATA">
+      <soap:operation soapAction="http://localhost/FileUpLoad_DATA" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PracticeResultFileUpLoad">
+      <soap:operation soapAction="http://localhost/PracticeResultFileUpLoad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerNowDate">
+      <soap:operation soapAction="http://localhost/GetServerNowDate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QuestionCollectionDownLoad">
+      <soap:operation soapAction="http://localhost/QuestionCollectionDownLoad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QuestionZipDownLoad">
+      <soap:operation soapAction="http://localhost/QuestionZipDownLoad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LogFileUpLoad">
+      <soap:operation soapAction="http://localhost/LogFileUpLoad" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="StudentSoap12" type="tns:StudentSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Initialize">
+      <soap12:operation soapAction="http://localhost/Initialize" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_DATA">
+      <soap12:operation soapAction="http://localhost/FileDownLoad_DATA" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_SYTEMDATA">
+      <soap12:operation soapAction="http://localhost/FileDownLoad_SYTEMDATA" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileUpLoad_UPLOAD">
+      <soap12:operation soapAction="http://localhost/FileUpLoad_UPLOAD" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileUpLoad_DATA">
+      <soap12:operation soapAction="http://localhost/FileUpLoad_DATA" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PracticeResultFileUpLoad">
+      <soap12:operation soapAction="http://localhost/PracticeResultFileUpLoad" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerNowDate">
+      <soap12:operation soapAction="http://localhost/GetServerNowDate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QuestionCollectionDownLoad">
+      <soap12:operation soapAction="http://localhost/QuestionCollectionDownLoad" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="QuestionZipDownLoad">
+      <soap12:operation soapAction="http://localhost/QuestionZipDownLoad" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LogFileUpLoad">
+      <soap12:operation soapAction="http://localhost/LogFileUpLoad" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Student">
+    <wsdl:port name="StudentSoap" binding="tns:StudentSoap">
+      <soap:address location="http://localhost:61980/Student.asmx" />
+    </wsdl:port>
+    <wsdl:port name="StudentSoap12" binding="tns:StudentSoap12">
+      <soap12:address location="http://localhost:61980/Student.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

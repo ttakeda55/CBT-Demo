@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<xs:schema id="TestResultHeader" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="TestResultHeader" msdata:IsDataSet="true" msdata:MainDataTable="TestResultHeader" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TestResultHeader">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="USERID" type="xs:string" minOccurs="0" />
+              <xs:element name="TESTCOUNT" type="xs:string" minOccurs="0" />
+              <xs:element name="TESTDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="TESTTIME" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT1_A" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT1_B" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT1_C" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT1_D" type="xs:string" minOccurs="0" />
+              <xs:element name="TOTALPOINTS" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT2_A" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT2_B" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT2_C" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT2_D" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT2_E" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT2_F" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT2_G" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT2_H" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYPOINT2_I" type="xs:string" minOccurs="0" />
+              <xs:element name="RESULT" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

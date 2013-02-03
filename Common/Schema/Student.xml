@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Student" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="Student" msdata:IsDataSet="true" msdata:MainDataTable="Student" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Student">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="USERID" type="xs:string" minOccurs="0" />
+              <xs:element name="NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="SECTION1" type="xs:string" minOccurs="0" />
+              <xs:element name="SECTION2" type="xs:string" minOccurs="0" />
+              <xs:element name="PASSWORD" type="xs:string" minOccurs="0" />
+              <xs:element name="NOTE" type="xs:string" minOccurs="0" />
+              <xs:element name="TESTCOUNT" type="xs:string" minOccurs="0" />
+              <xs:element name="UPLOADDATE" type="xs:string" minOccurs="0" />
+              <xs:element name="STUDENTSSTART" type="xs:string" minOccurs="0" />
+              <xs:element name="STUDENTSEND" type="xs:string" minOccurs="0" />
+              <xs:element name="CREATE_DATE" type="xs:string" minOccurs="0" />
+              <xs:element name="UPDATE_DATE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

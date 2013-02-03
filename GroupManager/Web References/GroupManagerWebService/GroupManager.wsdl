@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://localhost/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://localhost/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://localhost/">
+      <s:element name="Initialize">
+        <s:complexType />
+      </s:element>
+      <s:element name="InitializeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InitializeResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileDownLoad_DATA">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileDownLoad_DATAResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FileDownLoad_DATAResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileDownLoad_SYTEMDATA">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileDownLoad_SYTEMDATAResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FileDownLoad_SYTEMDATAResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileUpLoad_DATA">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FileUpLoad_DATAResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="FileUpLoad_DATAResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetFileList">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dtFileList">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetFileListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetFileListResult" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="dtFileList">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpLoadLogFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="groupCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contents" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UpLoadLogFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="UpLoadLogFileResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetServerDateTime">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="datetime" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetServerDateTimeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="GetServerDateTimeResult" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="datetime" type="s:dateTime" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="InitializeSoapIn">
+    <wsdl:part name="parameters" element="tns:Initialize" />
+  </wsdl:message>
+  <wsdl:message name="InitializeSoapOut">
+    <wsdl:part name="parameters" element="tns:InitializeResponse" />
+  </wsdl:message>
+  <wsdl:message name="FileDownLoad_DATASoapIn">
+    <wsdl:part name="parameters" element="tns:FileDownLoad_DATA" />
+  </wsdl:message>
+  <wsdl:message name="FileDownLoad_DATASoapOut">
+    <wsdl:part name="parameters" element="tns:FileDownLoad_DATAResponse" />
+  </wsdl:message>
+  <wsdl:message name="FileDownLoad_SYTEMDATASoapIn">
+    <wsdl:part name="parameters" element="tns:FileDownLoad_SYTEMDATA" />
+  </wsdl:message>
+  <wsdl:message name="FileDownLoad_SYTEMDATASoapOut">
+    <wsdl:part name="parameters" element="tns:FileDownLoad_SYTEMDATAResponse" />
+  </wsdl:message>
+  <wsdl:message name="FileUpLoad_DATASoapIn">
+    <wsdl:part name="parameters" element="tns:FileUpLoad_DATA" />
+  </wsdl:message>
+  <wsdl:message name="FileUpLoad_DATASoapOut">
+    <wsdl:part name="parameters" element="tns:FileUpLoad_DATAResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetFileListSoapIn">
+    <wsdl:part name="parameters" element="tns:GetFileList" />
+  </wsdl:message>
+  <wsdl:message name="GetFileListSoapOut">
+    <wsdl:part name="parameters" element="tns:GetFileListResponse" />
+  </wsdl:message>
+  <wsdl:message name="UpLoadLogFileSoapIn">
+    <wsdl:part name="parameters" element="tns:UpLoadLogFile" />
+  </wsdl:message>
+  <wsdl:message name="UpLoadLogFileSoapOut">
+    <wsdl:part name="parameters" element="tns:UpLoadLogFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetServerDateTimeSoapIn">
+    <wsdl:part name="parameters" element="tns:GetServerDateTime" />
+  </wsdl:message>
+  <wsdl:message name="GetServerDateTimeSoapOut">
+    <wsdl:part name="parameters" element="tns:GetServerDateTimeResponse" />
+  </wsdl:message>
+  <wsdl:portType name="GroupManagerSoap">
+    <wsdl:operation name="Initialize">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">WEBサービスを利用する場合、初めにこのメソッドを実施し、WEBサービスとの接続を確立する。</wsdl:documentation>
+      <wsdl:input message="tns:InitializeSoapIn" />
+      <wsdl:output message="tns:InitializeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_DATA">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">指定したファイルをDataフォルダ配下のサブフォルダ内からダウンロードする。格納フォルダはファイル名から判断する。</wsdl:documentation>
+      <wsdl:input message="tns:FileDownLoad_DATASoapIn" />
+      <wsdl:output message="tns:FileDownLoad_DATASoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_SYTEMDATA">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">指定したファイルをSystemDataフォルダ内からダウンロードする。</wsdl:documentation>
+      <wsdl:input message="tns:FileDownLoad_SYTEMDATASoapIn" />
+      <wsdl:output message="tns:FileDownLoad_SYTEMDATASoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FileUpLoad_DATA">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">指定したファイルをDataフォルダ内にアップロードする。格納フォルダはファイル名から判断する。</wsdl:documentation>
+      <wsdl:input message="tns:FileUpLoad_DATASoapIn" />
+      <wsdl:output message="tns:FileUpLoad_DATASoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetFileList">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Dataフォルダのファイル一覧（ファイル名、更新日付）を取得する</wsdl:documentation>
+      <wsdl:input message="tns:GetFileListSoapIn" />
+      <wsdl:output message="tns:GetFileListSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UpLoadLogFile">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">logフォルダにlogファイルをアップロードする。同じ日付の場合は、ファイルを追記する。</wsdl:documentation>
+      <wsdl:input message="tns:UpLoadLogFileSoapIn" />
+      <wsdl:output message="tns:UpLoadLogFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetServerDateTime">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">サーバの日時を取得する。</wsdl:documentation>
+      <wsdl:input message="tns:GetServerDateTimeSoapIn" />
+      <wsdl:output message="tns:GetServerDateTimeSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="GroupManagerSoap" type="tns:GroupManagerSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Initialize">
+      <soap:operation soapAction="http://localhost/Initialize" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_DATA">
+      <soap:operation soapAction="http://localhost/FileDownLoad_DATA" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_SYTEMDATA">
+      <soap:operation soapAction="http://localhost/FileDownLoad_SYTEMDATA" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileUpLoad_DATA">
+      <soap:operation soapAction="http://localhost/FileUpLoad_DATA" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetFileList">
+      <soap:operation soapAction="http://localhost/GetFileList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpLoadLogFile">
+      <soap:operation soapAction="http://localhost/UpLoadLogFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerDateTime">
+      <soap:operation soapAction="http://localhost/GetServerDateTime" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="GroupManagerSoap12" type="tns:GroupManagerSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Initialize">
+      <soap12:operation soapAction="http://localhost/Initialize" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_DATA">
+      <soap12:operation soapAction="http://localhost/FileDownLoad_DATA" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileDownLoad_SYTEMDATA">
+      <soap12:operation soapAction="http://localhost/FileDownLoad_SYTEMDATA" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FileUpLoad_DATA">
+      <soap12:operation soapAction="http://localhost/FileUpLoad_DATA" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetFileList">
+      <soap12:operation soapAction="http://localhost/GetFileList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpLoadLogFile">
+      <soap12:operation soapAction="http://localhost/UpLoadLogFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetServerDateTime">
+      <soap12:operation soapAction="http://localhost/GetServerDateTime" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="GroupManager">
+    <wsdl:port name="GroupManagerSoap" binding="tns:GroupManagerSoap">
+      <soap:address location="http://localhost:52005/GroupManager.asmx" />
+    </wsdl:port>
+    <wsdl:port name="GroupManagerSoap12" binding="tns:GroupManagerSoap12">
+      <soap12:address location="http://localhost:52005/GroupManager.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

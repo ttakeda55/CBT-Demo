@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Group" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="Group" msdata:IsDataSet="true" msdata:MainDataTable="Group" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Group">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="GROUPCODE" type="xs:string" minOccurs="0" />
+              <xs:element name="GROUPNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="APPLICANT" type="xs:string" minOccurs="0" />
+              <xs:element name="COURSE" type="xs:string" minOccurs="0" />
+              <xs:element name="STUDENTCOUNT" type="xs:string" minOccurs="0" />
+              <xs:element name="TESTSTART" type="xs:string" minOccurs="0" />
+              <xs:element name="TESTEND" type="xs:string" minOccurs="0" />
+              <xs:element name="GROUPMANAGERID" type="xs:string" minOccurs="0" />
+              <xs:element name="GROUPMANAGERNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="PASSWORD" type="xs:string" minOccurs="0" />
+              <xs:element name="STATE" type="xs:string" minOccurs="0" />
+              <xs:element name="FIRSTSTSRTDAY" type="xs:string" minOccurs="0" />
+              <xs:element name="FIRSTENDDAY" type="xs:string" minOccurs="0" />
+              <xs:element name="SECONDSTSRTDAY" type="xs:string" minOccurs="0" />
+              <xs:element name="SECONDENDDAY" type="xs:string" minOccurs="0" />
+              <xs:element name="COURSENO" type="xs:string" minOccurs="0" />
+              <xs:element name="CREATE_DATE" type="xs:string" minOccurs="0" />
+              <xs:element name="UPDATE_DATE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

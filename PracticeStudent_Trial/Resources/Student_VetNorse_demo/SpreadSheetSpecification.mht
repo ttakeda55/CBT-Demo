@@ -1,0 +1,2015 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01CC8D00.040CDCD0"
+
+このドキュメントは単一ファイル Web ページ (Web アーカイブ ファイル) です。お使いのブラウザ、またはエディタは Web アーカイブ ファイルをサポートしていません。Microsoft Internet Explorer など、Web アーカイブをサポートするブラウザをダウンロードしてください。
+
+------=_NextPart_01CC8D00.040CDCD0
+Content-Location: file:///C:/0C4BB24E/SpreadSheetSpecification.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link rel=3DFile-List href=3D"SpreadSheetSpecification.files/filelist.xml">
+<link rel=3DEdit-Time-Data href=3D"SpreadSheetSpecification.files/editdata.=
+mso">
+<link rel=3DOLE-Object-Data href=3D"SpreadSheetSpecification.files/oledata.=
+mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>&#34920;&#35336;&#31639;&#12477;&#12501;&#12488;&#12398;&#27231;&#33=
+021;&#12539;&#29992;&#35486;&#65288;IT&#12497;&#12473;&#12509;&#12540;&#124=
+88;&#35430;&#39443;&#29992;&#65289;</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>&#26666;&#24335;&#20250;&#31038;&#12452;&#12531;&#12501;&#12457=
+;&#12486;&#12483;&#12463;&#12539;&#12469;&#12540;&#12502;</o:Author>
+  <o:LastAuthor>nakamura</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:LastPrinted>2011-10-17T03:45:00Z</o:LastPrinted>
+  <o:Created>2011-10-17T10:07:00Z</o:Created>
+  <o:LastSaved>2011-10-17T10:07:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>707</o:Words>
+  <o:Characters>4035</o:Characters>
+  <o:Lines>33</o:Lines>
+  <o:Paragraphs>9</o:Paragraphs>
+  <o:CharactersWithSpaces>4733</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:PunctuationKerning/>
+  <w:DrawingGridHorizontalSpacing>10.95 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>7.25 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEve=
+ry>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-alt:"MS Mincho";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1610612033 1757936891 16 0 131231 0;}
+@font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;
+	mso-font-alt:"MS Gothic";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1610612033 1757936891 16 0 131231 0;}
+@font-face
+	{font-family:Century;
+	panose-1:2 4 6 4 5 5 5 2 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:"MS Gothic";
+	panose-1:2 11 6 9 7 2 5 8 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1610612033 1757936891 16 0 131231 0;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:fixed;
+	mso-font-signature:-1610612033 1757936891 16 0 131231 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0mm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:Century;
+	mso-fareast-font-family:"MS Mincho";
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:1.0pt;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:210.0mm 842.0pt;
+	margin:51.05pt 51.05pt 68.05pt 51.05pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:14.5pt .45pt;
+	mso-layout-grid-char-alt:1888;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:\6A19\6E96\306E\8868;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0mm 5.4pt 0mm 5.4pt;
+	mso-para-margin:0mm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Century;
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"\8868 \(\683C\5B50\)";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0mm 5.4pt 0mm 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0mm;
+	mso-para-margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.0pt;
+	font-family:Century;
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"2050">
+  <v:textbox inset=3D"5.85pt,.7pt,5.85pt,.7pt"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DJA style=3D'tab-interval:42.0pt;text-justify-trim:punctuation'>
+
+<div class=3DSection1 style=3D'layout-grid:14.5pt .45pt;mso-layout-grid-cha=
+r-alt:
+1888'>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><b style=3D=
+'mso-bidi-font-weight:
+normal'><span style=3D'font-size:12.0pt;font-family:"MS Gothic"'>&#34920;&#=
+35336;&#31639;&#12477;&#12501;&#12488;&#12398;&#27231;&#33021;&#12539;&#299=
+92;&#35486;&#65288;<span
+lang=3DEN-US>IT</span>&#12497;&#12473;&#12509;&#12540;&#12488;&#35430;&#394=
+43;&#29992;&#65289;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;font-fami=
+ly:"MS Gothic"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Gothic=
+"'>&#12288;&#34920;&#35336;&#31639;&#12477;&#12501;&#12488;&#12398;&#27231;=
+&#33021;&#65292;&#29992;&#35486;&#12394;&#12393;&#12399;&#65292;&#21407;&#2=
+1063;&#12392;&#12375;&#12390;&#27425;&#12395;&#12424;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Gothic=
+"'>&#12288;&#12394;&#12362;&#65292;&#12527;&#12540;&#12463;&#12471;&#12540;=
+&#12488;&#12398;&#20445;&#23384;&#65292;&#35501;&#20986;&#12375;&#65292;&#2=
+1360;&#21047;&#65292;&#32619;&#32218;&#20316;&#25104;&#12420;&#12464;&#1252=
+1;&#12501;&#20316;&#25104;&#12394;&#12393;&#65292;&#12371;&#12371;&#12391;&=
+#31034;&#12377;&#20197;&#22806;&#12398;&#27231;&#33021;&#12394;&#12393;&#12=
+434;&#20351;&#29992;&#12377;&#12427;&#12392;&#12365;&#12395;&#12399;&#65292=
+;&#21839;&#38988;&#25991;&#20013;&#12395;&#31034;&#12377;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;font-fami=
+ly:"MS Gothic"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65297;&#65294;&#12527;=
+&#12540;&#12463;&#12471;&#12540;&#12488;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(1) </span>&#21015;&#12392;&#34892;&#12392;&#12391;&#27083;&#2=
+5104;&#12373;&#12428;&#12427;&#21319;&#30446;&#12398;&#20316;&#26989;&#3893=
+6;&#22495;&#12434;&#12527;&#12540;&#12463;&#12471;&#12540;&#12488;&#12392;&=
+#12356;&#12358;&#12290;&#12527;&#12540;&#12463;&#12471;&#12540;&#12488;&#12=
+398;&#22823;&#12365;&#12373;&#12399;<span
+lang=3DEN-US>256</span>&#21015;&#65292;<span lang=3DEN-US>10,000</span>&#34=
+892;&#12392;&#12377;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(2) </span>&#12527;&#12540;&#12463;&#12471;&#12540;&#12488;&#1=
+2398;&#21015;&#12392;&#34892;&#12398;&#12381;&#12428;&#12382;&#12428;&#1239=
+8;&#20301;&#32622;&#12399;&#65292;&#21015;&#30058;&#21495;&#12392;&#34892;&=
+#30058;&#21495;&#12391;&#34920;&#12377;&#12290;&#21015;&#30058;&#21495;&#12=
+399;&#65292;&#26368;&#24038;&#31471;&#21015;&#12398;&#21015;&#30058;&#21495=
+;&#12434;<span
+lang=3DEN-US>A</span>&#12392;&#12375;&#65292;<span lang=3DEN-US>A</span>&#6=
+5292;<span
+lang=3DEN-US>B</span>&#65292;&#8230;&#65292;<span lang=3DEN-US>Z</span>&#65=
+292;<span
+lang=3DEN-US>AA</span>&#65292;<span lang=3DEN-US>AB</span>&#65292;&#8230;&#=
+65292;<span
+lang=3DEN-US>AZ</span>&#65292;<span lang=3DEN-US>BA</span>&#65292;<span lan=
+g=3DEN-US>BB</span>&#65292;&#8230;&#65292;<span
+lang=3DEN-US>BZ</span>&#65292;&#8230;&#65292;<span lang=3DEN-US>IU</span>&#=
+65292;<span
+lang=3DEN-US>IV</span>&#12392;&#34920;&#12377;&#12290;&#34892;&#30058;&#214=
+95;&#12399;&#65292;&#26368;&#19978;&#31471;&#34892;&#12398;&#34892;&#30058;=
+&#21495;&#12434;<span
+lang=3DEN-US>1</span>&#12392;&#12375;&#65292;<span lang=3DEN-US>1</span>&#6=
+5292;<span
+lang=3DEN-US>2</span>&#65292;&#8230;&#65292;<span lang=3DEN-US>10000</span>=
+&#12392;&#34920;&#12377;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(3) </span>&#35079;&#25968;&#12398;&#12527;&#12540;&#12463;&#1=
+2471;&#12540;&#12488;&#12434;&#21033;&#29992;&#12377;&#12427;&#12371;&#1239=
+2;&#12364;&#12391;&#12365;&#12427;&#12290;&#12371;&#12398;&#12392;&#12365;&=
+#65292;&#21508;&#12527;&#12540;&#12463;&#12471;&#12540;&#12488;&#12395;&#12=
+399;&#19968;&#24847;&#12398;&#12527;&#12540;&#12463;&#12471;&#12540;&#12488=
+;&#21517;&#12434;&#20184;&#12369;&#12390;&#65292;&#20182;&#12398;&#12527;&#=
+12540;&#12463;&#12471;&#12540;&#12488;&#12392;&#21306;&#21029;&#12377;&#124=
+27;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;font-fami=
+ly:"MS Gothic"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65298;&#65294;&#12475;=
+&#12523;&#12392;&#12475;&#12523;&#31684;&#22258;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(1) </span>&#12527;&#12540;&#12463;&#12471;&#12540;&#12488;&#1=
+2434;&#27083;&#25104;&#12377;&#12427;&#21508;&#21319;&#12434;&#12475;&#1252=
+3;&#12392;&#12356;&#12358;&#12290;&#12381;&#12398;&#20301;&#32622;&#12399;&=
+#21015;&#30058;&#21495;&#12392;&#34892;&#30058;&#21495;&#12391;&#34920;&#12=
+375;&#65292;&#12381;&#12428;&#12434;&#12475;&#12523;&#30058;&#22320;&#12392=
+;&#12356;&#12358;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:51.35pt;mso-para-margin-left:1.95=
+gd;
+text-indent:-30.0pt'><span style=3D'font-size:10.0pt;font-family:"MS Gothic=
+"'>&#65339;&#20363;&#65341;&#21015;<span
+lang=3DEN-US>A</span>&#34892;<span lang=3DEN-US>1</span>&#12395;&#12354;&#1=
+2427;&#12475;&#12523;&#12398;&#12475;&#12523;&#30058;&#22320;&#12399;&#6529=
+2;<span
+lang=3DEN-US>A1</span>&#12392;&#34920;&#12377;&#12290;<span lang=3DEN-US><o=
+:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(2) </span>&#12527;&#12540;&#12463;&#12471;&#12540;&#12488;&#2=
+0869;&#12398;&#12354;&#12427;&#38263;&#26041;&#24418;&#12398;&#38936;&#2249=
+5;&#12395;&#21547;&#12414;&#12428;&#12427;&#20840;&#12390;&#12398;&#12475;&=
+#12523;&#12398;&#38598;&#12414;&#12426;&#12434;&#25201;&#12358;&#22580;&#21=
+512;&#65292;&#38263;&#26041;&#24418;&#12398;&#24038;&#19978;&#31471;&#12392=
+;&#21491;&#19979;&#31471;&#12398;&#12475;&#12523;&#30058;&#22320;&#21450;&#=
+12403;&#8220;&#65374;&#8221;&#12434;&#29992;&#12356;&#12390;&#65292;&#8220;=
+&#24038;&#19978;&#31471;&#12398;&#12475;&#12523;&#30058;&#22320;&#65374;&#2=
+1491;&#19979;&#31471;&#12398;&#12475;&#12523;&#30058;&#22320;&#8221;&#12392=
+;&#34920;&#12377;&#12290;&#12371;&#12428;&#12434;&#12475;&#12523;&#31684;&#=
+22258;&#12392;&#12356;&#12358;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:51.35pt;mso-para-margin-left:1.95=
+gd;
+text-indent:-30.0pt'><span style=3D'font-size:10.0pt;font-family:"MS Gothic=
+"'>&#65339;&#20363;&#65341;&#24038;&#19978;&#31471;&#12398;&#12475;&#12523;=
+&#30058;&#22320;&#12364;<span
+lang=3DEN-US>A1</span>&#12391;&#65292;&#21491;&#19979;&#31471;&#12398;&#124=
+75;&#12523;&#30058;&#22320;&#12364;<span
+lang=3DEN-US>B3</span>&#12398;&#12475;&#12523;&#31684;&#22258;&#12399;&#652=
+92;<span
+lang=3DEN-US>A1</span>&#65374;<span lang=3DEN-US>B3</span>&#12392;&#34920;&=
+#12377;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(3) </span>&#20182;&#12398;&#12527;&#12540;&#12463;&#12471;&#1=
+2540;&#12488;&#12398;&#12475;&#12523;&#30058;&#22320;&#21448;&#12399;&#1247=
+5;&#12523;&#31684;&#22258;&#12434;&#25351;&#23450;&#12377;&#12427;&#22580;&=
+#21512;&#12395;&#12399;&#65292;&#12527;&#12540;&#12463;&#12471;&#12540;&#12=
+488;&#21517;&#12392;&#8220;<span
+lang=3DEN-US>!</span>&#8221;&#12434;&#29992;&#12356;&#65292;&#12381;&#12428=
+;&#12382;&#12428;&#8220;&#12527;&#12540;&#12463;&#12471;&#12540;&#12488;&#2=
+1517;<span
+lang=3DEN-US>!</span>&#12475;&#12523;&#30058;&#22320;&#8221;&#21448;&#12399=
+;&#8220;&#12527;&#12540;&#12463;&#12471;&#12540;&#12488;&#21517;<span
+lang=3DEN-US>!</span>&#12475;&#12523;&#31684;&#22258;&#8221;&#12392;&#34920=
+;&#12377;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:51.35pt;mso-para-margin-left:1.95=
+gd;
+text-indent:-30.0pt'><span style=3D'font-size:10.0pt;font-family:"MS Gothic=
+"'>&#65339;&#20363;&#65341;&#12527;&#12540;&#12463;&#12471;&#12540;&#12488;=
+&#8220;&#12471;&#12540;&#12488;&#65297;&#8221;&#12398;&#12475;&#12523;&#316=
+84;&#22258;<span
+lang=3DEN-US>B5</span>&#65374;<span lang=3DEN-US>G10</span>&#12434;&#65292;=
+&#21029;&#12398;&#12527;&#12540;&#12463;&#12471;&#12540;&#12488;&#12363;&#1=
+2425;&#25351;&#23450;&#12377;&#12427;&#22580;&#21512;&#12395;&#12399;&#6529=
+2;&#12471;&#12540;&#12488;<span
+lang=3DEN-US>1!B5</span>&#65374;<span lang=3DEN-US>G10</span>&#12392;&#3492=
+0;&#12377;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;font-fami=
+ly:"MS Gothic"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65299;&#65294;&#20516;=
+&#12392;&#24335;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(1) </span>&#12475;&#12523;&#12399;&#20516;&#12434;&#12418;&#1=
+2385;&#65292;&#12381;&#12398;&#20516;&#12399;&#12475;&#12523;&#30058;&#2232=
+0;&#12395;&#12424;&#12387;&#12390;&#21442;&#29031;&#12391;&#12365;&#12427;&=
+#12290;&#20516;&#12395;&#12399;&#65292;&#25968;&#20516;&#65292;&#25991;&#23=
+383;&#21015;&#65292;&#35542;&#29702;&#20516;&#21450;&#12403;&#31354;&#20516=
+;&#12364;&#12354;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(2) </span>&#25991;&#23383;&#21015;&#12399;&#19968;&#37325;&#2=
+4341;&#29992;&#31526;&#8220;
+<span lang=3DEN-US>' </span>&#8221;&#12391;&#22258;&#12387;&#12390;&#34920;=
+&#12377;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:51.35pt;mso-para-margin-left:1.95=
+gd;
+text-indent:-30.0pt'><span style=3D'font-size:10.0pt;font-family:"MS Gothic=
+"'>&#65339;&#20363;&#65341;&#25991;&#23383;&#21015;&#8220;<span
+lang=3DEN-US>A</span>&#8221;&#65292;&#8220;<span lang=3DEN-US>BC</span>&#82=
+21;&#12399;&#65292;&#12381;&#12428;&#12382;&#12428;<span
+lang=3DEN-US>'A'</span>&#65292;<span lang=3DEN-US>'B'</span>&#65292;<span
+lang=3DEN-US>'C'</span>&#12392;&#34920;&#12377;&#12290;<span lang=3DEN-US><=
+o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(3) </span>&#35542;&#29702;&#20516;&#12398;&#30495;&#12434;<sp=
+an
+lang=3DEN-US>true</span>&#65292;&#20605;&#12434;<span lang=3DEN-US>false</s=
+pan>&#12392;&#34920;&#12377;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(4) </span>&#31354;&#20516;&#12434;<span lang=3DEN-US>null</sp=
+an>&#12392;&#34920;&#12375;&#65292;&#31354;&#20516;&#12434;&#12418;&#12388;=
+&#12475;&#12523;&#12434;&#31354;&#30333;&#12475;&#12523;&#12392;&#12356;&#1=
+2358;&#12290;&#12475;&#12523;&#12398;&#21021;&#26399;&#29366;&#24907;&#1239=
+9;&#65292;&#31354;&#30333;&#12475;&#12523;&#12392;&#12377;&#12427;&#12290;<=
+span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(5) </span>&#12475;&#12523;&#12395;&#12399;&#65292;&#24335;&#1=
+2434;&#20837;&#21147;&#12377;&#12427;&#12371;&#12392;&#12364;&#12391;&#1236=
+5;&#12427;&#12290;&#12475;&#12523;&#12399;&#65292;&#24335;&#12434;&#35413;&=
+#20385;&#12375;&#12383;&#32080;&#26524;&#12398;&#20516;&#12434;&#12418;&#12=
+388;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(6) </span>&#24335;&#12399;&#65292;&#23450;&#25968;&#65292;&#1=
+2475;&#12523;&#30058;&#22320;&#65292;&#28436;&#31639;&#23376;&#65292;&#2532=
+4;&#24359;&#21450;&#12403;&#38306;&#25968;&#12363;&#12425;&#27083;&#25104;&=
+#12373;&#12428;&#12427;&#12290;&#23450;&#25968;&#12399;&#65292;&#25968;&#20=
+516;&#65292;&#25991;&#23383;&#21015;&#65292;&#35542;&#29702;&#20516;&#21448=
+;&#12399;&#31354;&#20516;&#12434;&#34920;&#12377;&#34920;&#35352;&#12392;&#=
+12377;&#12427;&#12290;&#24335;&#20013;&#12398;&#12475;&#12523;&#30058;&#223=
+20;&#12399;&#65292;&#12381;&#12398;&#30058;&#22320;&#12398;&#12475;&#12523;=
+&#12398;&#20516;&#12434;&#21442;&#29031;&#12377;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(7) </span>&#24335;&#12395;&#12399;&#65292;&#31639;&#34899;&#2=
+4335;&#65292;&#25991;&#23383;&#24335;&#21450;&#12403;&#35542;&#29702;&#2433=
+5;&#12364;&#12354;&#12427;&#12290;&#35413;&#20385;&#12398;&#32080;&#26524;&=
+#12364;&#25968;&#20516;&#12392;&#12394;&#12427;&#24335;&#12434;&#31639;&#34=
+899;&#24335;&#65292;&#25991;&#23383;&#21015;&#12392;&#12394;&#12427;&#24335=
+;&#12434;&#25991;&#23383;&#24335;&#65292;&#35542;&#29702;&#20516;&#12392;&#=
+12394;&#12427;&#24335;&#12434;&#35542;&#29702;&#24335;&#12392;&#12356;&#123=
+58;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(8) </span>&#12475;&#12523;&#12395;&#24335;&#12434;&#20837;&#2=
+1147;&#12377;&#12427;&#12392;&#65292;&#24335;&#12399;&#30452;&#12385;&#1239=
+5;&#35413;&#20385;&#12373;&#12428;&#12427;&#12290;&#24335;&#12364;&#21442;&=
+#29031;&#12377;&#12427;&#12475;&#12523;&#12398;&#20516;&#12364;&#22793;&#21=
+270;&#12375;&#12383;&#12392;&#12365;&#12395;&#12399;&#65292;&#30452;&#12385=
+;&#12395;&#65292;&#36969;&#20999;&#12395;&#20877;&#35413;&#20385;&#12373;&#=
+12428;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;font-fami=
+ly:"MS Gothic"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65300;&#65294;&#28436;=
+&#31639;&#23376;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(1) </span>&#21336;&#38917;&#28436;&#31639;&#23376;&#12399;&#6=
+5292;&#27491;&#31526;&#21495;&#8220;&#65291;<span
+lang=3DEN-US>&#8221;</span>&#21450;&#12403;&#36000;&#31526;&#21495;&#8220;&=
+#65293;&#8221;&#12392;&#12377;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(2) </span>&#31639;&#34899;&#28436;&#31639;&#23376;&#12399;&#6=
+5292;&#21152;&#31639;&#8220;&#65291;&#8221;&#65292;&#28187;&#31639;&#8220;&=
+#65293;&#8221;&#65292;&#20055;&#31639;&#8220;&#65290;&#8221;&#65292;&#38500=
+;&#31639;&#8220;&#65295;&#8221;&#21450;&#12403;&#12409;&#12365;&#20055;&#82=
+20;&#65342;&#8221;&#12392;&#12377;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(3) </span>&#27604;&#36611;&#28436;&#31639;&#23376;&#12399;&#6=
+5292;&#12424;&#12426;&#22823;&#12365;&#12356;&#8220;&#65310;&#8221;&#65292;=
+&#12424;&#12426;&#23567;&#12373;&#12356;&#8220;&#65308;&#8221;&#65292;&#201=
+97;&#19978;&#8220;&#8807;&#8221;&#65292;&#20197;&#19979;&#8220;&#8806;&#822=
+1;&#65292;&#31561;&#12375;&#12356;&#8220;&#65309;&#8221;&#21450;&#12403;&#3=
+1561;&#12375;&#12367;&#12394;&#12356;&#8220;&#8800;&#8221;&#12392;&#12377;&=
+#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(4) </span>&#25324;&#24359;&#12399;&#20024;&#25324;&#24359;&#8=
+220;&#65288;&#8221;&#21450;&#12403;&#8220;&#65289;&#8221;&#12434;&#20351;&#=
+12358;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(5) </span>&#24335;&#20013;&#12395;&#35079;&#25968;&#12398;&#2=
+8436;&#31639;&#21450;&#12403;&#25324;&#24359;&#12364;&#12354;&#12427;&#1239=
+2;&#12365;&#12398;&#35336;&#31639;&#12398;&#38918;&#24207;&#12399;&#65292;&=
+#27425;&#34920;&#12398;&#20778;&#20808;&#38918;&#20301;&#12395;&#24467;&#12=
+358;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<table class=3DMsoTableGrid border=3D1 cellspacing=3D0 cellpadding=3D0
+ style=3D'margin-left:41.4pt;border-collapse:collapse;border:none;mso-borde=
+r-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:480;mso-padding-alt:0mm 5.4pt 0mm 5=
+.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid win=
+dowtext'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=3D95 valign=3Dtop style=3D'width:71.55pt;border:solid windowtex=
+t 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#28436;&#31639;&#1239=
+8;&#31278;&#39006;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D178 valign=3Dtop style=3D'width:133.65pt;border:solid windowt=
+ext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#28436;&#31639;&#2337=
+6;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D82 valign=3Dtop style=3D'width:61.2pt;border:solid windowtext=
+ 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#20778;&#20808;&#3891=
+8;&#20301;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1'>
+  <td width=3D95 valign=3Dtop style=3D'width:71.55pt;border:solid windowtex=
+t 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#25324;&#24359;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D178 valign=3Dtop style=3D'width:133.65pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;font-fa=
+mily:"MS Gothic"'>(</span><span
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span lang=3DE=
+N-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D82 rowspan=3D6 valign=3Dtop style=3D'width:61.2pt;border-top:=
+none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid =
+windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#39640;<span lang=3DE=
+N-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span lan=
+g=3DEN-US
+  style=3D'font-family:"MS Gothic"'><!--[if gte vml 1]><v:shapetype id=3D"_=
+x0000_t75"
+   coordsize=3D"21600,21600" o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@=
+4@5l@4@11@9@11@9@5xe"
+   filled=3D"f" stroked=3D"f">
+   <v:stroke joinstyle=3D"miter"/>
+   <v:formulas>
+    <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn=3D"sum @0 1 0"/>
+    <v:f eqn=3D"sum 0 0 @1"/>
+    <v:f eqn=3D"prod @2 1 2"/>
+    <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+    <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+    <v:f eqn=3D"sum @0 0 1"/>
+    <v:f eqn=3D"prod @6 1 2"/>
+    <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+    <v:f eqn=3D"sum @8 21600 0"/>
+    <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+    <v:f eqn=3D"sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"=
+/>
+   <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+  </v:shapetype><v:shape id=3D"_x0000_i1025" type=3D"#_x0000_t75" style=3D'=
+width:16.5pt;
+   height:52.5pt' o:ole=3D"">
+   <v:imagedata src=3D"SpreadSheetSpecification.files/image001.emz" o:title=
+=3D""/>
+  </v:shape><![endif]--><![if !vml]><img width=3D22 height=3D70
+  src=3D"SpreadSheetSpecification.files/image002.gif" v:shapes=3D"_x0000_i1=
+025"><![endif]><!--[if gte mso 9]><xml>
+   <o:OLEObject Type=3D"Embed" ProgID=3D"Visio.Drawing.11" ShapeID=3D"_x000=
+0_i1025"
+    DrawAspect=3D"Content" ObjectID=3D"_1380383602">
+   </o:OLEObject>
+  </xml><![endif]--></span><span lang=3DEN-US style=3D'font-size:10.0pt;fon=
+t-family:
+  "MS Gothic"'><o:p></o:p></span></p>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#20302;<span lang=3DE=
+N-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2'>
+  <td width=3D95 valign=3Dtop style=3D'width:71.55pt;border:solid windowtex=
+t 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12409;&#12365;&#20055;&#28436;&#31639;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D178 valign=3Dtop style=3D'width:133.65pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#65342;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3'>
+  <td width=3D95 valign=3Dtop style=3D'width:71.55pt;border:solid windowtex=
+t 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#21336;&#38917;&#28436;&#31639;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D178 valign=3Dtop style=3D'width:133.65pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#65291;&#65292;&#65293;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:4'>
+  <td width=3D95 valign=3Dtop style=3D'width:71.55pt;border:solid windowtex=
+t 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#20055;&#38500;&#28436;&#31639;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D178 valign=3Dtop style=3D'width:133.65pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#65290;&#65292;&#65295;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:5'>
+  <td width=3D95 valign=3Dtop style=3D'width:71.55pt;border:solid windowtex=
+t 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#21152;&#28187;&#28436;&#31639;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D178 valign=3Dtop style=3D'width:133.65pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#65291;&#65292;&#65293;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:6;mso-yfti-lastrow:yes'>
+  <td width=3D95 valign=3Dtop style=3D'width:71.55pt;border:solid windowtex=
+t 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:s=
+olid windowtext .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#27604;&#36611;&#28436;&#31639;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D178 valign=3Dtop style=3D'width:133.65pt;border-top:none;bord=
+er-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#65310;&#65292;&#65308;&#65292;&#8807;&#65292;&#8806;&#65292;&#65309;=
+&#65292;&#8800;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;font-fami=
+ly:"MS Gothic"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65301;&#65294;&#12475;=
+&#12523;&#12398;&#35079;&#20889;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(1) </span>&#12475;&#12523;&#12398;&#20516;&#21448;&#12399;&#2=
+4335;&#12434;&#65292;&#20182;&#12398;&#12475;&#12523;&#12395;&#35079;&#2088=
+9;&#12377;&#12427;&#12371;&#12392;&#12364;&#12391;&#12365;&#12427;&#12290;<=
+span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(2) </span>&#12475;&#12523;&#12434;&#35079;&#20889;&#12377;&#1=
+2427;&#22580;&#21512;&#12391;&#65292;&#35079;&#20889;&#20803;&#12398;&#1247=
+5;&#12523;&#20013;&#12395;&#12475;&#12523;&#30058;&#22320;&#12434;&#21547;&=
+#12416;&#24335;&#12364;&#20837;&#21147;&#12373;&#12428;&#12390;&#12356;&#12=
+427;&#12392;&#12365;&#65292;&#35079;&#20889;&#20803;&#12392;&#35079;&#20889=
+;&#20808;&#12398;&#12475;&#12523;&#30058;&#22320;&#12398;&#24046;&#12434;&#=
+32173;&#25345;&#12377;&#12427;&#12424;&#12358;&#12395;&#65292;&#24335;&#200=
+13;&#12398;&#12475;&#12523;&#30058;&#22320;&#12434;&#22793;&#21270;&#12373;=
+&#12379;&#12427;&#12475;&#12523;&#12398;&#21442;&#29031;&#26041;&#27861;&#1=
+2434;&#30456;&#23550;&#21442;&#29031;&#12392;&#12356;&#12358;&#12290;&#1237=
+1;&#12398;&#22580;&#21512;&#65292;&#35079;&#20889;&#20808;&#12398;&#12475;&=
+#12523;&#12392;&#12398;&#21015;&#30058;&#21495;&#12398;&#24046;&#21450;&#12=
+403;&#34892;&#30058;&#21495;&#12398;&#24046;&#12434;&#65292;&#35079;&#20889=
+;&#20803;&#12398;&#12475;&#12523;&#12395;&#20837;&#21147;&#12373;&#12428;&#=
+12383;&#24335;&#20013;&#12398;&#21508;&#12475;&#12523;&#30058;&#22320;&#123=
+95;&#21152;&#31639;&#12375;&#12383;&#24335;&#12364;&#65292;&#35079;&#20889;=
+&#20808;&#12398;&#12475;&#12523;&#12395;&#20837;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:51.35pt;mso-para-margin-left:1.95=
+gd;
+text-indent:-30.0pt'><span style=3D'font-size:10.0pt;font-family:"MS Gothic=
+"'>&#65339;&#20363;&#65341;&#12475;&#12523;<span
+lang=3DEN-US>A6</span>&#12395;&#24335;<span lang=3DEN-US>A1</span>&#65291;<=
+span
+lang=3DEN-US>5</span>&#12364;&#20837;&#21147;&#12373;&#12428;&#12390;&#1235=
+6;&#12427;&#12392;&#12365;&#65292;&#12371;&#12398;&#12475;&#12523;&#12434;&=
+#12475;&#12523;<span
+lang=3DEN-US>B8</span>&#12395;&#35079;&#20889;&#12377;&#12427;&#12392;&#652=
+92;&#12475;&#12523;<span
+lang=3DEN-US>B8</span>&#12395;&#12399;&#24335;<span lang=3DEN-US>B3</span>&=
+#65291;<span
+lang=3DEN-US>5</span>&#12364;&#20837;&#12427;&#12290;<span lang=3DEN-US><o:=
+p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(3) </span>&#12475;&#12523;&#12434;&#35079;&#20889;&#12377;&#1=
+2427;&#22580;&#21512;&#12391;&#65292;&#35079;&#20889;&#20803;&#12398;&#1247=
+5;&#12523;&#20013;&#12395;&#12475;&#12523;&#30058;&#22320;&#12434;&#21547;&=
+#12416;&#24335;&#12364;&#20837;&#21147;&#12373;&#12428;&#12390;&#12356;&#12=
+427;&#12392;&#12365;&#65292;&#12381;&#12398;&#12475;&#12523;&#30058;&#22320=
+;&#12398;&#21015;&#30058;&#21495;&#12392;&#34892;&#30058;&#21495;&#12398;&#=
+20001;&#26041;&#21448;&#12399;&#29255;&#26041;&#12434;&#22793;&#21270;&#123=
+73;&#12379;&#12394;&#12356;&#12475;&#12523;&#12398;&#21442;&#29031;&#26041;=
+&#27861;&#12434;&#32118;&#23550;&#21442;&#29031;&#12392;&#12356;&#12358;&#1=
+2290;&#32118;&#23550;&#21442;&#29031;&#12434;&#36969;&#29992;&#12377;&#1242=
+7;&#21015;&#30058;&#21495;&#12392;&#34892;&#30058;&#21495;&#12398;&#20001;&=
+#26041;&#21448;&#12399;&#29255;&#26041;&#12398;&#30452;&#21069;&#12395;&#12=
+399;&#8220;<span
+lang=3DEN-US>$</span>&#8221;&#12434;&#20184;&#12369;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:51.35pt;mso-para-margin-left:1.95=
+gd;
+text-indent:-30.0pt'><span style=3D'font-size:10.0pt;font-family:"MS Gothic=
+"'>&#65339;&#20363;&#65341;&#12475;&#12523;<span
+lang=3DEN-US>B1</span>&#12395;&#24335;<span lang=3DEN-US>$A$1</span>&#65291=
+;<span
+lang=3DEN-US>$A2</span>&#65291;<span lang=3DEN-US>A$5</span>&#12364;&#20837=
+;&#21147;&#12373;&#12428;&#12390;&#12356;&#12427;&#12392;&#12365;&#65292;&#=
+12371;&#12398;&#12475;&#12523;&#12434;&#12475;&#12523;<span
+lang=3DEN-US>C4</span>&#12395;&#35079;&#20889;&#12377;&#12427;&#12392;&#652=
+92;&#12475;&#12523;<span
+lang=3DEN-US>C4</span>&#12395;&#12399;&#24335;<span lang=3DEN-US>$A$1</span=
+>&#65291;<span
+lang=3DEN-US>$A5</span>&#65291;<span lang=3DEN-US>B$5</span>&#12364;&#20837=
+;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:20.9pt;text-indent:-20.9pt;mso-ch=
+ar-indent-count:
+-2.0'><span style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12288;<span
+lang=3DEN-US>(4) </span>&#12475;&#12523;&#12434;&#35079;&#20889;&#12377;&#1=
+2427;&#22580;&#21512;&#12391;&#65292;&#35079;&#20889;&#20803;&#12398;&#1247=
+5;&#12523;&#20013;&#12395;&#65292;&#20182;&#12398;&#12527;&#12540;&#12463;&=
+#12471;&#12540;&#12488;&#12434;&#21442;&#29031;&#12377;&#12427;&#24335;&#12=
+364;&#20837;&#21147;&#12373;&#12428;&#12390;&#12356;&#12427;&#12392;&#12365=
+;&#65292;&#12381;&#12398;&#21442;&#29031;&#12377;&#12427;&#12527;&#12540;&#=
+12463;&#12471;&#12540;&#12488;&#12398;&#12527;&#12540;&#12463;&#12471;&#125=
+40;&#12488;&#21517;&#12399;&#35079;&#20889;&#20808;&#12391;&#12418;&#22793;=
+&#12431;&#12425;&#12394;&#12356;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:51.35pt;mso-para-margin-left:1.95=
+gd;
+text-indent:-30.0pt'><span style=3D'font-size:10.0pt;font-family:"MS Gothic=
+"'>&#65339;&#20363;&#65341;&#12527;&#12540;&#12463;&#12471;&#12540;&#12488;=
+&#8220;&#12471;&#12540;&#12488;&#65298;&#8221;&#12398;&#12475;&#12523;<span
+lang=3DEN-US>A6</span>&#12395;&#24335;&#12471;&#12540;&#12488;<span lang=3D=
+EN-US>1!A1</span>&#12364;&#20837;&#21147;&#12373;&#12428;&#12390;&#12356;&#=
+12427;&#12392;&#12365;&#65292;&#12371;&#12398;&#12475;&#12523;&#12434;&#125=
+27;&#12540;&#12463;&#12471;&#12540;&#12488;&#8220;&#12471;&#12540;&#12488;&=
+#65299;&#8221;&#12398;&#12475;&#12523;<span
+lang=3DEN-US>B8</span>&#12395;&#35079;&#20889;&#12377;&#12427;&#12392;&#652=
+92;&#12475;&#12523;<span
+lang=3DEN-US>B8</span>&#12395;&#12399;&#24335;&#12471;&#12540;&#12488;<span
+lang=3DEN-US>1!B3</span>&#12364;&#20837;&#12427;&#12290;<span lang=3DEN-US>=
+<o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;font-fami=
+ly:"MS Gothic"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65302;&#65294;&#38306;=
+&#25968;<span
+lang=3DEN-US><o:p></o:p></span></span></b></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Gothic=
+"'>&#12288;&#24335;&#12395;&#12399;&#27425;&#12398;&#34920;&#12391;&#23450;=
+&#32681;&#12377;&#12427;&#38306;&#25968;&#12434;&#21033;&#29992;&#12377;&#1=
+2427;&#12371;&#12392;&#12364;&#12391;&#12365;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<table class=3DMsoTableGrid border=3D1 cellspacing=3D0 cellpadding=3D0
+ style=3D'border-collapse:collapse;border:none;mso-border-alt:solid windowt=
+ext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0mm 5.4pt 0mm 5.4pt;mso-border-inside=
+h:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=3D173 valign=3Dtop style=3D'width:129.6pt;border:solid windowte=
+xt 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#26360;&#24335;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 valign=3Dtop style=3D'width:374.45pt;border:solid windowt=
+ext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#35299;&#35500;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#21512;&#35336;<span lang=3DEN-US>(</span>&#124=
+75;&#12523;&#31684;&#22258;<sup>&#65297;<span
+  lang=3DEN-US>)</span></sup><span lang=3DEN-US>)<o:p></o:p></span></span><=
+/p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12395;&#21547;&#12414;&#12428;&#1242=
+7;&#25968;&#20516;&#12398;&#21512;&#35336;&#12434;&#36820;&#12377;&#12290;<=
+span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:30.0pt;text-indent:-30.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6534=
+1;&#21512;&#35336;<span
+  lang=3DEN-US>(A1</span>&#65374;<span lang=3DEN-US>B5)</span>&#12399;&#652=
+92;&#12475;&#12523;&#31684;&#22258;<span
+  lang=3DEN-US>A1</span>&#65374;<span lang=3DEN-US>B5</span>&#12395;&#21547=
+;&#12414;&#12428;&#12427;&#25968;&#20516;&#12398;&#21512;&#35336;&#12434;&#=
+36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#24179;&#22343;<span lang=3DEN-US>(</span>&#124=
+75;&#12523;&#31684;&#22258;<sup>&#65297;<span
+  lang=3DEN-US>)</span></sup><span lang=3DEN-US>)<o:p></o:p></span></span><=
+/p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12395;&#21547;&#12414;&#12428;&#1242=
+7;&#25968;&#20516;&#12398;&#24179;&#22343;&#12434;&#36820;&#12377;&#12290;<=
+span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#27161;&#26412;&#27161;&#28310;&#20559;&#24046;=
+<span
+  lang=3DEN-US>(</span>&#12475;&#12523;&#31684;&#22258;<sup>&#65297;<span
+  lang=3DEN-US>)</span></sup><span lang=3DEN-US>)<o:p></o:p></span></span><=
+/p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12395;&#21547;&#12414;&#12428;&#1242=
+7;&#25968;&#20516;&#12434;&#27161;&#26412;&#12392;&#12375;&#12390;&#35336;&=
+#31639;&#12375;&#12383;&#27161;&#28310;&#20559;&#24046;&#12434;&#36820;&#12=
+377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:4'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#27597;&#27161;&#28310;&#20559;&#24046;<span
+  lang=3DEN-US>(</span>&#12475;&#12523;&#31684;&#22258;<sup>&#65297;<span
+  lang=3DEN-US>)</span></sup><span lang=3DEN-US>)<o:p></o:p></span></span><=
+/p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12395;&#21547;&#12414;&#12428;&#1242=
+7;&#25968;&#20516;&#12434;&#27597;&#38598;&#22243;&#12392;&#12375;&#12390;&=
+#35336;&#31639;&#12375;&#12383;&#27161;&#28310;&#20559;&#24046;&#12434;&#36=
+820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:5'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#26368;&#22823;<span lang=3DEN-US>(</span>&#124=
+75;&#12523;&#31684;&#22258;<sup>&#65297;<span
+  lang=3DEN-US>)</span></sup><span lang=3DEN-US>)<o:p></o:p></span></span><=
+/p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12395;&#21547;&#12414;&#12428;&#1242=
+7;&#25968;&#20516;&#12398;&#26368;&#22823;&#20516;&#12434;&#36820;&#12377;&=
+#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:6'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#26368;&#23567;<span lang=3DEN-US>(</span>&#124=
+75;&#12523;&#31684;&#22258;<sup>&#65297;<span
+  lang=3DEN-US>)</span></sup><span lang=3DEN-US>)<o:p></o:p></span></span><=
+/p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12395;&#21547;&#12414;&#12428;&#1242=
+7;&#25968;&#20516;&#12398;&#26368;&#23567;&#20516;&#12434;&#36820;&#12377;&=
+#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:7'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span lang=3DEN-US
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>IF(</span><span
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#35542;&#29702;&#2433=
+5;&#65292;&#24335;&#65297;&#65292;&#24335;&#65298;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#35542;&#29702;&#24335;&#12398;&#20516;&#12364;<span
+  lang=3DEN-US>true</span>&#12398;&#12392;&#12365;&#24335;&#65297;&#12398;&=
+#20516;&#12434;&#65292;<span
+  lang=3DEN-US>false</span>&#12398;&#12392;&#12365;&#24335;&#65298;&#12398;=
+&#20516;&#12434;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:30.0pt;text-indent:-30.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6534=
+1;<span
+  lang=3DEN-US>IF(B3</span>&#65310;<span lang=3DEN-US>A4</span>&#65292;<span
+  lang=3DEN-US>'</span>&#21271;&#28023;&#36947;<span lang=3DEN-US>'</span>&=
+#65292;<span
+  lang=3DEN-US>C4)</span>&#12399;&#65292;&#12475;&#12523;<span lang=3DEN-US=
+>B3</span>&#12398;&#20516;&#12364;&#12475;&#12523;<span
+  lang=3DEN-US>A4</span>&#12398;&#20516;&#12424;&#12426;&#22823;&#12365;&#1=
+2356;&#12392;&#12365;&#25991;&#23383;&#21015;&#8220;&#21271;&#28023;&#36947=
+;&#8221;&#12434;&#65292;&#12381;&#12428;&#20197;&#22806;&#12398;&#12392;&#1=
+2365;&#12475;&#12523;<span
+  lang=3DEN-US>C4</span>&#12398;&#20516;&#12434;&#36820;&#12377;&#12290;<sp=
+an
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:8'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#20491;&#25968;<span lang=3DEN-US>(</span>&#124=
+75;&#12523;&#31684;&#22258;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12395;&#21547;&#12414;&#12428;&#1242=
+7;&#12475;&#12523;&#12398;&#12358;&#12385;&#65292;&#31354;&#30333;&#12391;&=
+#12394;&#12356;&#12475;&#12523;&#12398;&#20491;&#25968;&#12434;&#36820;&#12=
+377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:9'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#26465;&#20214;&#20184;&#20491;&#25968;<span
+  lang=3DEN-US>(</span>&#12475;&#12523;&#31684;&#22258;&#65292;&#26908;&#32=
+034;&#26465;&#20214;&#12398;&#35352;&#36848;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12395;&#21547;&#12414;&#12428;&#1242=
+7;&#12475;&#12523;&#12398;&#12358;&#12385;&#65292;&#26908;&#32034;&#26465;&=
+#20214;&#12398;&#35352;&#36848;&#12391;&#25351;&#23450;&#12373;&#12428;&#12=
+383;&#26465;&#20214;&#12434;&#28288;&#12383;&#12377;&#12475;&#12523;&#12398=
+;&#20491;&#25968;&#12434;&#36820;&#12377;&#12290;&#26908;&#32034;&#26465;&#=
+20214;&#12398;&#35352;&#36848;&#12399;&#27604;&#36611;&#28436;&#31639;&#233=
+76;&#12392;&#24335;&#12398;&#32068;&#12391;&#35352;&#36848;&#12375;&#65292;=
+&#12475;&#12523;&#31684;&#22258;&#12395;&#21547;&#12414;&#12428;&#12427;&#2=
+1508;&#12475;&#12523;&#12392;&#24335;&#12398;&#20516;&#12434;&#65292;&#2535=
+1;&#23450;&#12375;&#12383;&#27604;&#36611;&#28436;&#31639;&#23376;&#12395;&=
+#12424;&#12387;&#12390;&#35413;&#20385;&#12377;&#12427;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:39.0pt;text-indent:-39.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6529=
+7;&#65341;&#26465;&#20214;&#20184;&#20491;&#25968;<span
+  lang=3DEN-US>(H5</span>&#65374;<span lang=3DEN-US>H9</span>&#65292;&#6531=
+0;<span
+  lang=3DEN-US>A1)</span>&#12399;&#65292;&#12475;&#12523;&#31684;&#22258;<s=
+pan
+  lang=3DEN-US>H5</span>&#65374;<span lang=3DEN-US>L9</span>&#12398;&#12475=
+;&#12523;&#12398;&#12358;&#12385;&#65292;&#12475;&#12523;<span
+  lang=3DEN-US>A1</span>&#12398;&#20516;&#12424;&#12426;&#22823;&#12365;&#1=
+2394;&#20516;&#12434;&#12418;&#12388;&#12475;&#12523;&#12398;&#20491;&#2596=
+8;&#12434;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:39.0pt;text-indent:-39.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6529=
+8;&#65341;&#26465;&#20214;&#20184;&#20491;&#25968;<span
+  lang=3DEN-US>(H5</span>&#65374;<span lang=3DEN-US>H9</span>&#65292;&#6530=
+9;<span
+  lang=3DEN-US>'A4')</span>&#12399;&#65292;&#12475;&#12523;&#31684;&#22258;=
+<span
+  lang=3DEN-US>H5</span>&#65374;<span lang=3DEN-US>L9</span>&#12398;&#12475=
+;&#12523;&#12398;&#12358;&#12385;&#65292;&#25991;&#23383;&#21015;&#8220;<sp=
+an
+  lang=3DEN-US>A4</span>&#8221;&#12434;&#12418;&#12388;&#12475;&#12523;&#12=
+398;&#20491;&#25968;&#12434;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:10'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#25972;&#25968;&#37096;<span lang=3DEN-US>(</sp=
+an>&#31639;&#34899;&#24335;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#31639;&#34899;&#24335;&#12398;&#20516;&#20197;&#19979;&#12391;&#2636=
+8;&#22823;&#12398;&#25972;&#25968;&#12434;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#65339;&#20363;&#65297;&#65341;&#25972;&#25968;&#37096;<span
+  lang=3DEN-US>(3.9)</span>&#12399;&#65292;<span lang=3DEN-US>3</span>&#124=
+34;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#65339;&#20363;&#65298;&#65341;&#25972;&#25968;&#37096;<span
+  lang=3DEN-US>(</span>&#65293;<span lang=3DEN-US>3.9)</span>&#12399;&#6529=
+2;&#65293;<span
+  lang=3DEN-US>4</span>&#12434;&#36820;&#12377;&#12290;<span lang=3DEN-US><=
+o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:11'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#21104;&#20313;<span lang=3DEN-US>(</span>&#316=
+39;&#34899;&#24335;&#65297;&#65292;&#31639;&#34899;&#24335;&#65298;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#31639;&#34899;&#24335;&#65297;&#12398;&#20516;&#12434;&#34987;&#3850=
+0;&#25968;&#65292;&#31639;&#34899;&#24335;&#65298;&#12398;&#20516;&#12434;&=
+#38500;&#25968;&#12392;&#12375;&#12390;&#38500;&#31639;&#12434;&#34892;&#12=
+387;&#12383;&#12392;&#12365;&#12398;&#21104;&#20313;&#12434;&#36820;&#12377=
+;&#12290;&#38306;&#25968;&#8220;&#21104;&#20313;&#8221;&#12392;&#8220;&#259=
+72;&#25968;&#37096;&#8221;&#12399;&#65292;&#21104;&#20313;<span
+  lang=3DEN-US>(x</span>&#65292;<span lang=3DEN-US>y)</span>&#65309;<span
+  lang=3DEN-US>x</span>&#65293;<span lang=3DEN-US>y</span>&#65290;&#25972;&=
+#25968;&#37096;<span
+  lang=3DEN-US>(x</span>&#65295;<span lang=3DEN-US>y)</span>&#12392;&#12356=
+;&#12358;&#38306;&#20418;&#12434;&#28288;&#12383;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:39.0pt;text-indent:-39.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6529=
+7;&#65341;&#21104;&#20313;<span
+  lang=3DEN-US>(10</span>&#65292;<span lang=3DEN-US>3)</span>&#12399;&#6529=
+2;<span
+  lang=3DEN-US>1</span>&#12434;&#36820;&#12377;&#12290;<span lang=3DEN-US><=
+o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:39.0pt;text-indent:-39.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6529=
+8;&#65341;&#21104;&#20313;<span
+  lang=3DEN-US>(</span>&#65293;<span lang=3DEN-US>10</span>&#65292;<span
+  lang=3DEN-US>3)</span>&#12399;&#65292;<span lang=3DEN-US>2</span>&#12434;=
+&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:12'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#24179;&#26041;&#26681;<span lang=3DEN-US>(</sp=
+an>&#31639;&#34899;&#24335;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#31639;&#34899;&#24335;&#12398;&#20516;&#12398;&#38750;&#36000;&#1239=
+8;&#24179;&#26041;&#26681;&#12434;&#36820;&#12377;&#12290;&#31639;&#34899;&=
+#24335;&#12398;&#20516;&#12399;&#65292;&#38750;&#36000;&#12398;&#25968;&#20=
+516;&#12391;&#12394;&#12369;&#12428;&#12400;&#12394;&#12425;&#12394;&#12356=
+;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:13'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#35542;&#29702;&#31309;<span lang=3DEN-US>(</sp=
+an>&#35542;&#29702;&#24335;&#65297;&#65292;&#35542;&#29702;&#24335;&#65298;=
+&#65292;&#8230;<span
+  lang=3DEN-US>)</span><sup>&#65298;<span lang=3DEN-US>)</span></sup><span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#35542;&#29702;&#24335;&#65297;&#65292;&#35542;&#29702;&#24335;&#6529=
+8;&#65292;&#8230;&#12398;&#20516;&#12364;&#20840;&#12390;<span
+  lang=3DEN-US>true</span>&#12398;&#12392;&#12365;&#65292;<span lang=3DEN-U=
+S>true</span>&#12434;&#36820;&#12377;&#12290;&#12381;&#12428;&#20197;&#2280=
+6;&#12398;&#12392;&#12365;<span
+  lang=3DEN-US>false</span>&#12434;&#36820;&#12377;&#12290;<span lang=3DEN-=
+US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:14'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#35542;&#29702;&#21644;<span lang=3DEN-US>(</sp=
+an>&#35542;&#29702;&#24335;&#65297;&#65292;&#35542;&#29702;&#24335;&#65298;=
+&#65292;&#8230;<span
+  lang=3DEN-US>)</span><sup>&#65298;<span lang=3DEN-US>)</span></sup><span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#35542;&#29702;&#24335;&#65297;&#65292;&#35542;&#29702;&#24335;&#6529=
+8;&#65292;&#8230;&#12398;&#20516;&#12398;&#12358;&#12385;&#65292;&#23569;&#=
+12394;&#12367;&#12392;&#12418;&#19968;&#12388;&#12364;<span
+  lang=3DEN-US>true</span>&#12398;&#12392;&#12365;&#65292;<span lang=3DEN-U=
+S>true</span>&#12434;&#36820;&#12377;&#12290;&#12381;&#12428;&#20197;&#2280=
+6;&#12398;&#12392;&#12365;<span
+  lang=3DEN-US>false</span>&#12434;&#36820;&#12377;&#12290;<span lang=3DEN-=
+US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:15'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#21542;&#23450;<span lang=3DEN-US>(</span>&#355=
+42;&#29702;&#24335;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#35542;&#29702;&#24335;&#12398;&#20516;&#12364;<span
+  lang=3DEN-US>true</span>&#12398;&#12392;&#12365;<span lang=3DEN-US>false<=
+/span>&#12434;&#65292;<span
+  lang=3DEN-US>false</span>&#12398;&#12392;&#12365;<span lang=3DEN-US>true<=
+/span>&#12434;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:16;height:30.0pt'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt;height:30.0pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#20999;&#19978;&#12370;<span lang=3DEN-US>(</sp=
+an>&#31639;&#34899;&#24335;&#65292;&#26689;&#20301;&#32622;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 rowspan=3D3 style=3D'width:374.45pt;border-top:none;borde=
+r-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1=
+.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt;height:3=
+0.0pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#31639;&#34899;&#24335;&#12398;&#20516;&#12434;&#25351;&#23450;&#1237=
+5;&#12383;&#26689;&#20301;&#32622;&#12391;&#65292;&#38306;&#25968;&#8220;&#=
+20999;&#19978;&#12370;&#8221;&#12399;&#20999;&#12426;&#19978;&#12370;&#1238=
+3;&#20516;&#12434;&#65292;&#38306;&#25968;&#8220;&#22235;&#25448;&#20116;&#=
+20837;&#8221;&#12399;&#22235;&#25448;&#20116;&#20837;&#12375;&#12383;&#2051=
+6;&#12434;&#65292;&#38306;&#25968;&#8220;&#20999;&#25448;&#12390;&#8221;&#1=
+2399;&#20999;&#12426;&#25448;&#12390;&#12383;&#20516;&#12434;&#36820;&#1237=
+7;&#12290;&#12371;&#12371;&#12391;&#65292;&#26689;&#20301;&#32622;&#12399;&=
+#23569;&#25968;&#31532;&#65297;&#20301;&#12398;&#26689;&#12434;<span
+  lang=3DEN-US>0</span>&#12392;&#12375;&#65292;&#21491;&#26041;&#21521;&#12=
+434;&#27491;&#12392;&#12375;&#12390;&#25968;&#12360;&#12383;&#12392;&#12365=
+;&#12398;&#20301;&#32622;&#12392;&#12377;&#12427;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:39.0pt;text-indent:-39.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6529=
+7;&#65341;&#20999;&#19978;&#12370;<span
+  lang=3DEN-US>(</span>&#65293;<span lang=3DEN-US>314.159</span>&#65292;<sp=
+an
+  lang=3DEN-US>2)</span>&#12399;&#65292;&#65293;<span lang=3DEN-US>314.16</=
+span>&#12434;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:39.0pt;text-indent:-39.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6529=
+8;&#65341;&#20999;&#19978;&#12370;<span
+  lang=3DEN-US>(314.159</span>&#65292;&#65293;<span lang=3DEN-US>2)</span>&=
+#12399;&#65292;<span
+  lang=3DEN-US>400</span>&#12434;&#36820;&#12377;&#12290;<span lang=3DEN-US=
+><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:39.0pt;text-indent:-39.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6529=
+9;&#65341;&#20999;&#19978;&#12370;<span
+  lang=3DEN-US>(314.159</span>&#65292;<span lang=3DEN-US>0)</span>&#12399;&=
+#65292;<span
+  lang=3DEN-US>315</span>&#12434;&#36820;&#12377;&#12290;<span lang=3DEN-US=
+><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:17;height:30.0pt'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt;height:30.0pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#22235;&#25448;&#20116;&#20837;<span lang=3DEN-=
+US>(</span>&#31639;&#34899;&#24335;&#65292;&#26689;&#20301;&#32622;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:18;height:30.0pt'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt;height:30.0pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#20999;&#25448;&#12390;<span lang=3DEN-US>(</sp=
+an>&#31639;&#34899;&#24335;&#65292;&#26689;&#20301;&#32622;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:19'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#32080;&#21512;<span lang=3DEN-US>(</span>&#243=
+35;&#65297;&#65292;&#24335;&#65298;&#65292;&#8230;<span
+  lang=3DEN-US>)</span><sup>&#65298;<span lang=3DEN-US>)</span></sup><span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#24335;&#65297;&#65292;&#24335;&#65298;&#65292;&#8230;&#12398;&#12381=
+;&#12428;&#12382;&#12428;&#12398;&#20516;&#12434;&#25991;&#23383;&#21015;&#=
+12392;&#12375;&#12390;&#25201;&#12356;&#65292;&#12381;&#12428;&#12425;&#124=
+34;&#24341;&#25968;&#12398;&#38918;&#12395;&#12388;&#12394;&#12356;&#12391;=
+&#12391;&#12365;&#12427;&#19968;&#12388;&#12398;&#25991;&#23383;&#21015;&#1=
+2434;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:30.0pt;text-indent:-30.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6534=
+1;&#32080;&#21512;<span
+  lang=3DEN-US>('</span>&#21271;&#28023;&#36947;<span lang=3DEN-US>'</span>=
+&#65292;<span
+  lang=3DEN-US>'</span>&#20061;&#24030;<span lang=3DEN-US>'</span>&#65292;<=
+span
+  lang=3DEN-US>123</span>&#65292;<span lang=3DEN-US>456)</span>&#12399;&#65=
+292;&#25991;&#23383;&#21015;&#8220;&#21271;&#28023;&#36947;&#20061;&#24030;=
+<span
+  lang=3DEN-US>123456</span>&#8221;&#12434;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:20'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#38918;&#20301;<span lang=3DEN-US>(</span>&#316=
+39;&#34899;&#24335;&#65292;&#12475;&#12523;&#31684;&#22258;<sup>&#65297;<sp=
+an
+  lang=3DEN-US>)</span></sup>&#65292;&#38918;&#24207;&#12398;&#25351;&#2345=
+0;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12398;&#20013;&#12391;&#12398;&#3163=
+9;&#34899;&#24335;&#12398;&#20516;&#12398;&#38918;&#20301;&#12434;&#65292;&=
+#38918;&#24207;&#12398;&#25351;&#23450;&#12364;<span
+  lang=3DEN-US>0</span>&#12398;&#22580;&#21512;&#12399;&#26119;&#38918;&#12=
+391;&#65292;<span
+  lang=3DEN-US>1</span>&#12398;&#22580;&#21512;&#12399;&#38477;&#38918;&#12=
+391;&#25968;&#12360;&#12390;&#65292;&#12381;&#12398;&#38918;&#20301;&#12434=
+;&#36820;&#12377;&#12290;&#12371;&#12371;&#12391;&#65292;&#12475;&#12523;&#=
+31684;&#22258;&#12398;&#20013;&#12395;&#21516;&#12376;&#20516;&#12364;&#123=
+54;&#12427;&#22580;&#21512;&#65292;&#12381;&#12428;&#12425;&#12434;&#21516;=
+&#38918;&#12392;&#12375;&#65292;&#27425;&#12398;&#38918;&#20301;&#12399;&#2=
+1516;&#38918;&#12398;&#20491;&#25968;&#12384;&#12369;&#21152;&#31639;&#1237=
+5;&#12383;&#38918;&#20301;&#12392;&#12377;&#12427;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:21'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#20081;&#25968;<span lang=3DEN-US>(</span>&#122=
+88;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;font-fa=
+mily:"MS Gothic"'>0</span><span
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#20197;&#19978;<span
+  lang=3DEN-US>1</span>&#26410;&#28288;&#12398;&#19968;&#27096;&#20081;&#25=
+968;<span
+  lang=3DEN-US>(</span>&#23455;&#25968;&#20516;<span lang=3DEN-US>)</span>&=
+#12434;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:22'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#34920;&#24341;&#12365;<span lang=3DEN-US>(</sp=
+an>&#12475;&#12523;&#31684;&#22258;&#65292;&#34892;&#12398;&#20301;&#32622;=
+&#65292;&#21015;&#12398;&#20301;&#32622;<span
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12398;&#24038;&#19978;&#31471;&#1236=
+3;&#12425;&#34892;&#12392;&#21015;&#12434;&#12381;&#12428;&#12382;&#12428;<=
+span
+  lang=3DEN-US>1</span>&#65292;<span lang=3DEN-US>2</span>&#65292;&#8230;&#=
+12392;&#25968;&#12360;&#65292;&#12475;&#12523;&#31684;&#22258;&#12395;&#215=
+47;&#12414;&#12428;&#12427;&#34892;&#12398;&#20301;&#32622;&#12392;&#21015;=
+&#12398;&#20301;&#32622;&#12391;&#25351;&#23450;&#12375;&#12383;&#22580;&#2=
+5152;&#12395;&#12354;&#12427;&#12475;&#12523;&#12398;&#20516;&#12434;&#3682=
+0;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:30.0pt;text-indent:-30.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6534=
+1;&#34920;&#24341;&#12365;<span
+  lang=3DEN-US>(A3</span>&#65374;<span lang=3DEN-US>H11</span>&#65292;<span
+  lang=3DEN-US>2</span>&#65292;<span lang=3DEN-US>5)</span>&#12399;&#65292;=
+&#12475;&#12523;<span
+  lang=3DEN-US>E4</span>&#12398;&#20516;&#12434;&#36820;&#12377;&#12290;<sp=
+an
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:23'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#22402;&#30452;&#29031;&#21512;<span lang=3DEN-=
+US>(</span>&#24335;&#65292;&#12475;&#12523;&#31684;&#22258;&#65292;&#21015;=
+&#12398;&#20301;&#32622;&#65292;&#26908;&#32034;&#12398;&#25351;&#23450;<sp=
+an
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12398;&#24038;&#31471;&#21015;&#1243=
+4;&#19978;&#12363;&#12425;&#19979;&#12395;&#36208;&#26619;&#12375;&#65292;&=
+#26908;&#32034;&#12398;&#25351;&#23450;&#12395;&#12424;&#12387;&#12390;&#25=
+351;&#23450;&#12373;&#12428;&#12427;&#26465;&#20214;&#12434;&#28288;&#12383=
+;&#12377;&#12475;&#12523;&#12364;&#29694;&#12428;&#12427;&#26368;&#21021;&#=
+12398;&#34892;&#12434;&#25506;&#12377;&#12290;&#12381;&#12398;&#34892;&#123=
+95;&#23550;&#12375;&#12390;&#65292;&#12475;&#12523;&#31684;&#22258;&#12398;=
+&#24038;&#31471;&#21015;&#12363;&#12425;&#21015;&#12434;<span
+  lang=3DEN-US>1</span>&#65292;<span lang=3DEN-US>2</span>&#65292;&#8230;&#=
+12392;&#25968;&#12360;&#65292;&#12475;&#12523;&#31684;&#22258;&#12395;&#215=
+47;&#12414;&#12428;&#12427;&#21015;&#12398;&#20301;&#32622;&#12391;&#25351;=
+&#23450;&#12375;&#12383;&#21015;&#12395;&#12354;&#12427;&#12475;&#12523;&#1=
+2398;&#20516;&#12434;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:10.5pt;text-indent:-10.5pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12539;&#26908;&#3203=
+4;&#12398;&#25351;&#23450;&#12364;<span
+  lang=3DEN-US>0</span>&#12398;&#22580;&#21512;&#12398;&#26465;&#20214;&#65=
+306;&#24335;&#12398;&#20516;&#12392;&#19968;&#33268;&#12377;&#12427;&#20516=
+;&#12434;&#26908;&#32034;&#12377;&#12427;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:10.5pt;text-indent:-10.5pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12539;&#26908;&#3203=
+4;&#12398;&#25351;&#23450;&#12364;<span
+  lang=3DEN-US>1</span>&#12398;&#22580;&#21512;&#12398;&#26465;&#20214;&#65=
+306;&#24335;&#12398;&#20516;&#20197;&#19979;&#12398;&#26368;&#22823;&#20516=
+;&#12434;&#26908;&#32034;&#12377;&#12427;&#12290;&#12371;&#12398;&#12392;&#=
+12365;&#65292;&#24038;&#31471;&#21015;&#12399;&#19978;&#12363;&#12425;&#389=
+18;&#12395;&#26119;&#38918;&#12395;&#25972;&#21015;&#12373;&#12428;&#12390;=
+&#12356;&#12427;&#24517;&#35201;&#12364;&#12354;&#12427;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:30.0pt;text-indent:-30.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6534=
+1;&#22402;&#30452;&#29031;&#21512;<span
+  lang=3DEN-US>(15</span>&#65292;<span lang=3DEN-US>A2</span>&#65374;<span
+  lang=3DEN-US>E10</span>&#65292;<span lang=3DEN-US>5</span>&#65292;<span
+  lang=3DEN-US>0)</span>&#12399;&#65292;&#12475;&#12523;&#31684;&#22258;&#1=
+2398;&#24038;&#31471;&#21015;&#12434;&#12475;&#12523;<span
+  lang=3DEN-US>A2</span>&#65292;<span lang=3DEN-US>A3</span>&#65292;&#8230;=
+&#65292;<span
+  lang=3DEN-US>A10</span>&#12392;&#25506;&#12377;&#12290;&#12371;&#12398;&#=
+12392;&#12365;&#65292;&#12475;&#12523;<span
+  lang=3DEN-US>A6</span>&#12391;<span lang=3DEN-US>15</span>&#12434;&#26368=
+;&#21021;&#12395;&#35211;&#12388;&#12369;&#12383;&#12392;&#12377;&#12427;&#=
+12392;&#65292;&#24038;&#31471;&#21015;<span
+  lang=3DEN-US>A</span>&#12363;&#12425;&#25968;&#12360;&#12390;<span lang=
+=3DEN-US>5</span>&#21015;&#30446;&#12398;&#21015;<span
+  lang=3DEN-US>E</span>&#20013;&#12391;&#65292;&#12475;&#12523;<span lang=
+=3DEN-US>A6</span>&#12392;&#21516;&#12376;&#34892;&#12395;&#12354;&#12427;&=
+#12475;&#12523;<span
+  lang=3DEN-US>E6</span>&#12398;&#20516;&#12434;&#36820;&#12377;&#12290;<sp=
+an
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:24;mso-yfti-lastrow:yes'>
+  <td width=3D173 style=3D'width:129.6pt;border:solid windowtext 1.0pt;bord=
+er-top:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid window=
+text .5pt;
+  padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal style=3D'text-autospace:none'><span style=3D'font-si=
+ze:10.0pt;
+  font-family:"MS Gothic"'>&#27700;&#24179;&#29031;&#21512;<span lang=3DEN-=
+US>(</span>&#24335;&#65292;&#12475;&#12523;&#31684;&#22258;&#65292;&#34892;=
+&#12398;&#20301;&#32622;&#65292;&#26908;&#32034;&#12398;&#25351;&#23450;<sp=
+an
+  lang=3DEN-US>)<o:p></o:p></span></span></p>
+  </td>
+  <td width=3D499 style=3D'width:374.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid window=
+text .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0mm 5.4pt 0mm 5.4pt'>
+  <p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"MS Goth=
+ic"'>&#12475;&#12523;&#31684;&#22258;&#12398;&#19978;&#31471;&#34892;&#1243=
+4;&#24038;&#12363;&#12425;&#21491;&#12395;&#36208;&#26619;&#12375;&#65292;&=
+#26908;&#32034;&#12398;&#25351;&#23450;&#12395;&#12424;&#12387;&#12390;&#25=
+351;&#23450;&#12373;&#12428;&#12427;&#26465;&#20214;&#12434;&#28288;&#12383=
+;&#12377;&#12475;&#12523;&#12364;&#29694;&#12428;&#12427;&#26368;&#21021;&#=
+12398;&#21015;&#12434;&#25506;&#12377;&#12290;&#12381;&#12398;&#21015;&#123=
+95;&#23550;&#12375;&#12390;&#65292;&#12475;&#12523;&#31684;&#22258;&#12398;=
+&#19978;&#31471;&#34892;&#12363;&#12425;&#34892;&#12434;<span
+  lang=3DEN-US>1</span>&#65292;<span lang=3DEN-US>2</span>&#65292;&#8230;&#=
+12392;&#25968;&#12360;&#65292;&#12475;&#12523;&#31684;&#22258;&#12395;&#215=
+47;&#12414;&#12428;&#12427;&#34892;&#12398;&#20301;&#32622;&#12391;&#25351;=
+&#23450;&#12375;&#12383;&#34892;&#12395;&#12354;&#12427;&#12475;&#12523;&#1=
+2398;&#20516;&#12434;&#36820;&#12377;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:10.5pt;text-indent:-10.5pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12539;&#26908;&#3203=
+4;&#12398;&#25351;&#23450;&#12364;<span
+  lang=3DEN-US>0</span>&#12398;&#22580;&#21512;&#12398;&#26465;&#20214;&#65=
+306;&#24335;&#12398;&#20516;&#12392;&#19968;&#33268;&#12377;&#12427;&#20516=
+;&#12434;&#26908;&#32034;&#12377;&#12427;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:10.5pt;text-indent:-10.5pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#12539;&#26908;&#3203=
+4;&#12398;&#25351;&#23450;&#12364;<span
+  lang=3DEN-US>1</span>&#12398;&#22580;&#21512;&#12398;&#26465;&#20214;&#65=
+306;&#24335;&#12398;&#20516;&#20197;&#19979;&#12398;&#26368;&#22823;&#20516=
+;&#12434;&#26908;&#32034;&#12377;&#12427;&#12290;&#12371;&#12398;&#12392;&#=
+12365;&#65292;&#19978;&#31471;&#34892;&#12399;&#24038;&#12363;&#12425;&#389=
+18;&#12395;&#26119;&#38918;&#12395;&#25972;&#21015;&#12373;&#12428;&#12390;=
+&#12356;&#12427;&#24517;&#35201;&#12364;&#12354;&#12427;&#12290;<span
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  <p class=3DMsoNormal style=3D'margin-left:30.0pt;text-indent:-30.0pt'><sp=
+an
+  style=3D'font-size:10.0pt;font-family:"MS Gothic"'>&#65339;&#20363;&#6534=
+1;&#27700;&#24179;&#29031;&#21512;<span
+  lang=3DEN-US>(15</span>&#65292;<span lang=3DEN-US>A2</span>&#65374;<span
+  lang=3DEN-US>G6</span>&#65292;<span lang=3DEN-US>5</span>&#65292;<span
+  lang=3DEN-US>1)</span>&#12399;&#65292;&#12475;&#12523;&#31684;&#22258;&#1=
+2398;&#19978;&#31471;&#34892;&#12434;&#12475;&#12523;<span
+  lang=3DEN-US>A2</span>&#65292;<span lang=3DEN-US>B2</span>&#65292;&#8230;=
+&#65292;<span
+  lang=3DEN-US>G2</span>&#12392;&#25506;&#12377;&#12290;&#12371;&#12398;&#1=
+2392;&#12365;&#65292;<span
+  lang=3DEN-US>15</span>&#20197;&#19979;&#12398;&#26368;&#22823;&#20516;&#1=
+2434;&#12475;&#12523;<span
+  lang=3DEN-US>D2</span>&#12391;&#26368;&#21021;&#12395;&#35211;&#12388;&#1=
+2369;&#12383;&#12392;&#12377;&#12427;&#12392;&#65292;&#19978;&#31471;&#3489=
+2;<span
+  lang=3DEN-US>2</span>&#12363;&#12425;&#25968;&#12360;&#12390;<span lang=
+=3DEN-US>5</span>&#34892;&#30446;&#12398;&#34892;<span
+  lang=3DEN-US>6</span>&#20013;&#12391;&#65292;&#12475;&#12523;<span lang=
+=3DEN-US>D2</span>&#12392;&#21516;&#12376;&#21015;&#12395;&#12354;&#12427;&=
+#12475;&#12523;<span
+  lang=3DEN-US>D6</span>&#12398;&#20516;&#12434;&#36820;&#12377;&#12290;<sp=
+an
+  lang=3DEN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal><span style=3D'font-size:9.0pt;font-family:"MS Gothic"=
+'>&#27880;<sup>&#65297;<span
+lang=3DEN-US>)</span></sup><span lang=3DEN-US> </span>&#24341;&#25968;&#123=
+92;&#12375;&#12390;&#28193;&#12375;&#12383;&#12475;&#12523;&#31684;&#22258;=
+&#12398;&#20013;&#12391;&#65292;&#25968;&#20516;&#20197;&#22806;&#12398;&#2=
+0516;&#12399;&#20966;&#29702;&#12398;&#23550;&#35937;&#12392;&#12375;&#1239=
+4;&#12356;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span style=3D'font-size:9.0pt;font-family:"MS Gothic"=
+'>&#12288;<sup>&#65298;<span
+lang=3DEN-US>)</span></sup><span lang=3DEN-US> </span>&#24341;&#25968;&#123=
+92;&#12375;&#12390;&#28193;&#12377;&#12371;&#12392;&#12364;&#12391;&#12365;=
+&#12427;&#24335;&#12398;&#20491;&#25968;&#12399;&#65292;&#65297;&#20197;&#1=
+9978;&#12391;&#12354;&#12427;&#12290;<span
+lang=3DEN-US><o:p></o:p></span></span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'font-size:10.0pt;font-fami=
+ly:"MS Gothic"'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01CC8D00.040CDCD0
+Content-Location: file:///C:/0C4BB24E/SpreadSheetSpecification.files/image001.emz
+Content-Transfer-Encoding: base64
+Content-Type: image/x-emz
+
+H4sIAAAAAAACC61UMUtbURT+7st7NtLaWhrBQqxWLCqVEopDBkPuC+iiFV10KVhFBEHcRAeH13bX
+yUEo+QGCU1aHNjg49QfoUGj+Qge3+J30XHOVV0hLL3zcc0++d8653zm5BsAW0UU8JHqJZbRXLgPs
+9wBD0+9mAIOpCBilP8C9RT9C4NwAm+buT41GF/KfIzAAJoghguFeG2uQ15xB79cr+eyDQrgXxJly
+CzZo8cJWxKQ8aEM80vgvbHRrD1jWzD2rNUqsrEVANyY1j/C+K/+wvlMOlBt493I8rmbWmoyrW/yO
+c3zwNn5TP4pl31utVmCemz7eqV0n8FJrWSOkRrnjiIL3KLVVatsSf4UoKr+o/uIt1+AJ0tcrL4+z
+2ZpkWXN2E08JthSLmquGCVPDr9DxH5DvbCnMqzf26o39ese8vNK798SC9k70m6JdUP2cNt9+XNpo
+o9rST7B4uhvL2flhzMecNYmnZ7MT7WQ++7WWP2nzLEUn9ilZ0hn1/w85zb+NEnWq4Zq72L5eafE6
+1a5TvUSfT8UvFdGqkJxWRCc5O/+/6vW3usx774TkucbPsIataJu72P9Llzli/Xec1ncy80veWWZ5
+lhjHidflpJxup69hjdXkkj6490j6II+Ge1ce6xzAm4kbN4hTDDwFAAA=
+
+------=_NextPart_01CC8D00.040CDCD0
+Content-Location: file:///C:/0C4BB24E/SpreadSheetSpecification.files/image002.gif
+Content-Transfer-Encoding: base64
+Content-Type: image/gif
+
+R0lGODlhFgBGAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAcACAAJ
+ADYAgAAAAAAAAAI+hI8WebHpHIwP0NhkVaz1DX0dx4CIaY1pqaIoGY5uK8r1fdKsveMeH/PBejlg
+UbjyLZapC8ZyOT2lJonqUAAAOw==
+
+------=_NextPart_01CC8D00.040CDCD0
+Content-Location: file:///C:/0C4BB24E/SpreadSheetSpecification.files/oledata.mso
+Content-Transfer-Encoding: base64
+Content-Type: application/x-mso
+
+0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAPgADAP7/CQAGAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA
+EAAA/v///wAAAAD+////AAAAAAAAAAD/////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////9
+/////v///wMAAAAEAAAABQAAAAYAAAAHAAAACAAAAAkAAAAKAAAACwAAAAwAAAANAAAA/v//////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////1IA
+bwBvAHQAIABFAG4AdAByAHkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAWAAUA//////////8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHDLTZS0jMwB
+/v///wAAAAAAAAAAXwAxADMAOAAwADMAOAAzADYAMAAyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAABgAAgH///////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAACAAAAJxcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////wAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////
+////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAA
+AHic7ToJWFRH0v36vWGGc+7hEJzhEjQcg6Bi1MygICYeKDCaQ8MRIeISx4sYXQxjRo3RJAxKkjWJ
+wRjYuG6iiUdMsiaQqOuxm5VN4rqbYABBEMb8vuFQQOH91fNmYPQ3iebPv//u923zFdOvXnVVdXV1
+dXX3qz0jbXjz/YBGdEu5D9FogHNHbi44ygH2IkEIO54HOI5zorn/lH+r0g/g5hhDBn4FAEIAJYAK
+wB3AA8ATwAvAG8AHQMy7AJICyADkAAoHHyf8p/zrl3RkhL+VSINS0BL4XY5W3xoKfrSowGOcvIj/
+KAKwHV/Dv57qSrvzb2PKDz7/Z4qGusndGVPSUCHKuyuZrsUDYcq1P3faTuH4paHfs1E6uh/NQpk/
+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
+
+------=_NextPart_01CC8D00.040CDCD0
+Content-Location: file:///C:/0C4BB24E/SpreadSheetSpecification.files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../SpreadSheetSpecification.htm"/>
+ <o:File HRef=3D"image001.emz"/>
+ <o:File HRef=3D"image002.gif"/>
+ <o:File HRef=3D"oledata.mso"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01CC8D00.040CDCD0--

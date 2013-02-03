@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<xs:schema id="MENU" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="MENU" msdata:IsDataSet="true" msdata:MainDataTable="MENU" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="MENU">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="INDEX" type="xs:string" minOccurs="0" />
+              <xs:element name="MENUMODE" type="xs:string" minOccurs="0" />
+              <xs:element name="ID" type="xs:string" minOccurs="0" />
+              <xs:element name="NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="CAPTION" type="xs:string" minOccurs="0" />
+              <xs:element name="NAME_SPACE" type="xs:string" minOccurs="0" />
+              <xs:element name="FORMNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="PARENTID" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

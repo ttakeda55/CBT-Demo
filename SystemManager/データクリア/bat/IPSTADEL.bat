@@ -1,0 +1,1 @@
+rd %temp%\SystemManager2 /s /q

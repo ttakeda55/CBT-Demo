@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DocumentElement>
+  <MENU>
+    <INDEX>1</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>100000</ID>
+    <NAME>メインメニュー</NAME>
+    <CAPTION />
+    <NAME_SPACE />
+    <FORMNAME />
+    <PARENTID />
+  </MENU>
+  <MENU>
+    <INDEX>2</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>110000</ID>
+    <NAME>問題管理</NAME>
+    <CAPTION>問題のＷＯＲＤ取込、確認</CAPTION>
+    <NAME_SPACE />
+    <FORMNAME />
+    <PARENTID>100000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>3</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>111000</ID>
+    <NAME>問題登録</NAME>
+    <CAPTION>テストの問題の登録、確認
+グループの登録、修正</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.SystemManager</NAME_SPACE>
+    <FORMNAME>frmPracticeQuestionImport</FORMNAME>
+    <PARENTID>110000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>4</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>112000</ID>
+    <NAME>問題確認</NAME>
+    <CAPTION>問題の確認</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.SystemManager</NAME_SPACE>
+    <FORMNAME>frmPracticeQuestionList</FORMNAME>
+    <PARENTID>110000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>5</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>120000</ID>
+    <NAME>テスト管理</NAME>
+    <CAPTION>問題を抽出してテストの作成、確認</CAPTION>
+    <NAME_SPACE />
+    <FORMNAME />
+    <PARENTID>100000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>6</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>121000</ID>
+    <NAME>手動テスト作成</NAME>
+    <CAPTION>手動でテストを作成します。</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.GroupManager</NAME_SPACE>
+    <FORMNAME>frmSpecificInput</FORMNAME>
+    <PARENTID>120000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>7</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>122000</ID>
+    <NAME>自動テスト作成</NAME>
+    <CAPTION>自動でテストを作成します。</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.GroupManager</NAME_SPACE>
+    <FORMNAME>frmSynthesisInput</FORMNAME>
+    <PARENTID>120000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>8</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>123000</ID>
+    <NAME>テスト確認</NAME>
+    <CAPTION>作成済のテストを確認します</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.GroupManager</NAME_SPACE>
+    <FORMNAME>frmSynthesisList</FORMNAME>
+    <PARENTID>120000</PARENTID>
+  </MENU>
+  <!--<MENU>
+    <INDEX>9</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>130000</ID>
+    <NAME>テスト結果確認</NAME>
+    <CAPTION>テスト結果を確認します</CAPTION>
+    <NAME_SPACE />
+    <FORMNAME />
+    <PARENTID>100000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>10</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>131000</ID>
+    <NAME>個人別総合テスト結果一覧</NAME>
+    <CAPTION>個人別総合テスト結果一覧</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.GroupManager</NAME_SPACE>
+    <FORMNAME>frmSynthesisResultList</FORMNAME>
+    <PARENTID>130000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>11</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>132000</ID>
+    <NAME>個人別受験結果一覧</NAME>
+    <CAPTION>個人別受験結果一覧</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.GroupManager</NAME_SPACE>
+    <FORMNAME>frmResultList</FORMNAME>
+    <PARENTID>130000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>12</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>133000</ID>
+    <NAME>得点分析</NAME>
+    <CAPTION>得点分析</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.GroupManager</NAME_SPACE>
+    <FORMNAME>frmScoreAnalysis</FORMNAME>
+    <PARENTID>130000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>13</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>134000</ID>
+    <NAME>問別分析</NAME>
+    <CAPTION>問別分析</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.GroupManager</NAME_SPACE>
+    <FORMNAME>frmSynthesisQuestionAnalysis</FORMNAME>
+    <PARENTID>130000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>14</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>135000</ID>
+    <NAME>受験結果一括出力</NAME>
+    <CAPTION>受験結果一括出力</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.GroupManager</NAME_SPACE>
+    <FORMNAME>frmPrintMenu</FORMNAME>
+    <PARENTID>130000</PARENTID>
+  </MENU>-->
+  <MENU>
+    <INDEX>15</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>140000</ID>
+    <NAME>各種設定</NAME>
+    <CAPTION>各種設定</CAPTION>
+    <NAME_SPACE />
+    <FORMNAME />
+    <PARENTID>100000</PARENTID>
+  </MENU>
+  <!--<MENU>
+    <INDEX>16</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>141000</ID>
+    <NAME>試験名登録</NAME>
+    <CAPTION>試験名を登録します。</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.SystemManager</NAME_SPACE>
+    <FORMNAME>frmSetTestName</FORMNAME>
+    <PARENTID>140000</PARENTID>
+  </MENU>-->
+  <MENU>
+    <INDEX>17</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>142000</ID>
+    <NAME>グループ登録</NAME>
+    <CAPTION>グループ登録を行います</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.SystemManager</NAME_SPACE>
+    <FORMNAME>frmCategory</FORMNAME>
+    <PARENTID>140000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>18</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>143000</ID>
+    <NAME>受講者一括登録</NAME>
+    <CAPTION>CSV形式のファイルから受講者を一括登録する</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.SystemManager</NAME_SPACE>
+    <FORMNAME>frmStudentImport</FORMNAME>
+    <PARENTID>140000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>19</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>144000</ID>
+    <NAME>受講者個別処理</NAME>
+    <CAPTION>・受講者を個別に登録する
+・登録済み受講者の情報を修正する</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.SystemManager</NAME_SPACE>
+    <FORMNAME>frmStudentInput</FORMNAME>
+    <PARENTID>140000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>20</INDEX>
+    <MENUMODE>0</MENUMODE>
+    <ID>145000</ID>
+    <NAME>試験初期化</NAME>
+    <CAPTION>全ての試験問題を削除し、新たな試験の準備をします。</CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.SystemManager</NAME_SPACE>
+    <FORMNAME>frmClear</FORMNAME>
+    <PARENTID>140000</PARENTID>
+  </MENU>
+  <MENU>
+    <INDEX>51</INDEX>
+    <MENUMODE>1</MENUMODE>
+    <ID>200000</ID>
+    <NAME>メインメニュー</NAME>
+    <CAPTION />
+    <NAME_SPACE />
+    <FORMNAME />
+    <PARENTID />
+  </MENU>
+  <MENU>
+    <INDEX>52</INDEX>
+    <MENUMODE>1</MENUMODE>
+    <ID>210000</ID>
+    <NAME>試験開始</NAME>
+    <CAPTION>
+      試験を開始します。
+    </CAPTION>
+    <NAME_SPACE>CST.CBT.eIPSTA.PracticeStudent</NAME_SPACE>
+    <FORMNAME>frmTestTop</FORMNAME>
+    <PARENTID>200000</PARENTID>
+  </MENU>
+</DocumentElement>

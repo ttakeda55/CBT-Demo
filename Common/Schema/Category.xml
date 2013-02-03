@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<xs:schema id="CATEGORY" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="CATEGORY" msdata:IsDataSet="true" msdata:MainDataTable="CATEGORY" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CATEGORY">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CATEGORYID" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYNAME" type="xs:string" minOccurs="0" />
+              <xs:element name="PARENTCATEGORYID" type="xs:string" minOccurs="0" />
+              <xs:element name="DISPLAYID" type="xs:string" minOccurs="0" />
+              <xs:element name="CATEGORYCLASS" type="xs:string" minOccurs="0" />
+              <xs:element name="KEYWORD" type="xs:string" minOccurs="0" />
+              <xs:element name="LEVELQUESTIONCOUNT1" type="xs:string" minOccurs="0" />
+              <xs:element name="LEVELQUESTIONCOUNT2" type="xs:string" minOccurs="0" />
+              <xs:element name="LEVELQUESTIONCOUNT3" type="xs:string" minOccurs="0" />
+              <xs:element name="CREATE_DATE" type="xs:string" minOccurs="0" />
+              <xs:element name="UPDATE_DATE" type="xs:string" minOccurs="0" />
+              <xs:element name="SYNTHESISQUESTIONCOUNT" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

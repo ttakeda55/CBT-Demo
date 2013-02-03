@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<xs:schema id="Review" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="Review" msdata:IsDataSet="true" msdata:MainDataTable="Review" msdata:UseCurrentLocale="true">
+		<xs:complexType>
+			<xs:choice minOccurs="0" maxOccurs="unbounded">
+				<xs:element name="Review">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="QUESTIONCODE" type="xs:string" minOccurs="0" />
+							<xs:element name="REVIEW" type="xs:string" minOccurs="0" />
+							<xs:element name="CREATE_DATE" type="xs:string" minOccurs="0" />
+							<xs:element name="UPDATE_DATE" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
