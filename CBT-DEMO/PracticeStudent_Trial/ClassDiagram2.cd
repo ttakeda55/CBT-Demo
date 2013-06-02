@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.My.MyApplication" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\ApplicationEvents.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.My.MySettings" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABIABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.Constant" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAIAACAAAAAAAAAAAAAAAAIAAAgAAAAAA=</HashCode>
+      <FileName>Common\Constant.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.InstructionCommon" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\InstructionCommon.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.Logout" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAACAAAAAAAIQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Logout.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.CategoryDefine" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAgAIAQQCIgAAAAAAAAAAAoAAUEAAAAIAGAAAAAg=</HashCode>
+      <FileName>Data\CategoryDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.DataManager" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RWIWlCEBYCCMZURZHhIAAGiaDnDFQOoIqQQQRAzAQGE=</HashCode>
+      <FileName>Data\DataManager.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.DebugFile" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Data\DebugFile.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.FileDownLoad" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAIAARAAAAAAAIIEAAAQAAEAAAAAAAAAAgAA=</HashCode>
+      <FileName>Data\FileDownLoad.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.PracticeQuestionDefine" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QjYCQgQCkAIEBQjoQuicIRJAYBCAoOIaAQABBDQCAFE=</HashCode>
+      <FileName>Data\PracticeQuestionDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.QuestionBankDecorator" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAgEAJABAAAAAgCAQCAAgABSAAAEAAICAAAAAAAAA=</HashCode>
+      <FileName>Data\QuestionBankDecorator.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.QuestionCodeDefine" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEACABAAAAAAAAAAAACAAAAAAwIAAAAAAAAAAA=</HashCode>
+      <FileName>Data\QuestionCodeDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.QuestionDefine" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIBAAGAQAAgAAQQgQBAABAAAEAAA5AAISJQgIAjEA=</HashCode>
+      <FileName>Data\QuestionDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.QuestionDefineContainer" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAEEAAAAAAAQAgAAAABAAAA=</HashCode>
+      <FileName>Data\QuestionDefineContainer.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.QuestionDefineCreator" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\QuestionDefineCreator.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.ResultData" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgABAAA=</HashCode>
+      <FileName>Data\ResultData.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.ResultDataContainer" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAABAAAA=</HashCode>
+      <FileName>Data\ResultDataContainer.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.SynthesisDefine" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACAAAAABAAAAAAAGkgACAAJAQAAEEAAgIAgATAAAA=</HashCode>
+      <FileName>Data\SynthesisDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.SynthesisResultDefine" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgiAAIAAEAAFghAGAgCAAJwAgJQAAPAAlwIAQgBUAAA=</HashCode>
+      <FileName>Data\SynthesisResultDefine.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.frmConfirmTestEnd" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEEAACAAMACAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form\frmConfirmTestEnd.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.frmInstruction" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ogAAgAAAESAIAACkAACQIJCCAQAAQIJBAMAAAAAQAAA=</HashCode>
+      <FileName>Form\frmInstruction.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.frmLogin" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIAAECAQAGACgBCAAAACIAAASEAIAIAEACBAAAA=</HashCode>
+      <FileName>Form\frmLogin.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.frmReview" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABGCAAAAAYAJCA4AICACA/YGMACpQAgAAQAAA=</HashCode>
+      <FileName>Form\frmReview.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.frmSynthesisTestMarkHistory" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAGJlSADgNsgAECIIIECAKE8AUBBwECAAA1fEUI=</HashCode>
+      <FileName>Form\frmSynthesisTestMarkHistory.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.frmSynthesisTrueFalseList" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIAECJACCAIAiCqMCQEIICCCAQACBBwhQGEAQVEEE=</HashCode>
+      <FileName>Form\frmSynthesisTrueFalseList.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.frmTest" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIQgk4Q5HX4DCyqFUYCYwtFaMiIUBWhESgdQYB1UBA4=</HashCode>
+      <FileName>Form\frmTest.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.frmTestTop" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAABECAAAIAAIACQIACCAAHvAFIBgAAAAACQAAA=</HashCode>
+      <FileName>Form\frmTestTop.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.frmTimeUp" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAEAACAAIACAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form\frmTimeUp.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.Student" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HpADAMUAADADASSEAVUCqxACBBAAAFAAGgwAkAACAQM=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.InitializeCompletedEventArgs" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.FileDownLoad_DATACompletedEventArgs" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.FileDownLoad_SYTEMDATACompletedEventArgs" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.FileUpLoad_UPLOADCompletedEventArgs" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.FileUpLoad_DATACompletedEventArgs" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.PracticeResultFileUpLoadCompletedEventArgs" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.GetServerNowDateCompletedEventArgs" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAACgAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.QuestionCollectionDownLoadCompletedEventArgs" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAQAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.QuestionZipDownLoadCompletedEventArgs" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.LogFileUpLoadCompletedEventArgs" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.InitializeCompletedEventHandler" Collapsed="true">
+    <Position X="9.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.FileDownLoad_DATACompletedEventHandler" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.FileDownLoad_SYTEMDATACompletedEventHandler" Collapsed="true">
+    <Position X="2.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.FileUpLoad_UPLOADCompletedEventHandler" Collapsed="true">
+    <Position X="5.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.FileUpLoad_DATACompletedEventHandler" Collapsed="true">
+    <Position X="4" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.PracticeResultFileUpLoadCompletedEventHandler" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.GetServerNowDateCompletedEventHandler" Collapsed="true">
+    <Position X="7.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.QuestionCollectionDownLoadCompletedEventHandler" Collapsed="true">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.QuestionZipDownLoadCompletedEventHandler" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="CST.CBT.eIPSTA.PracticeStudent_Trial.WebService.LogFileUpLoadCompletedEventHandler" Collapsed="true">
+    <Position X="11" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Web References\WebService\Reference.vb</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Module Name="CST.CBT.eIPSTA.PracticeStudent_Trial.My.MySettingsProperty" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="CST.CBT.eIPSTA.PracticeStudent_Trial.My.Resources.Resources" Collapsed="true">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAQAAAAAiAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="メイリオ" Size="9" />
+</ClassDiagram>
